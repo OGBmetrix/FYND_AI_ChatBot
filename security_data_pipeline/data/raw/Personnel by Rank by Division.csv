@@ -1,0 +1,1427 @@
+_id,YEAR,COMMAND_GROUP,COMMAND_SUBUNIT,UNIT,CLASSIFICATION,COUNT_
+1,2014,Area Field Command,Area Field Command,22 Division,Civilian,12
+2,2014,Area Field Command,Area Field Command,22 Division,Detective Sergeant/ Staff Sergeant,7
+3,2014,Area Field Command,Area Field Command,22 Division,Inspector,1
+4,2014,Area Field Command,Area Field Command,22 Division,Police Constable,165
+5,2014,Area Field Command,Area Field Command,22 Division,Sergeant/Detective,32
+6,2014,Area Field Command,Area Field Command,22 Division,Superintendent & Above,1
+7,2014,Area Field Command,Area Field Command,23 Division,Civilian,12
+8,2014,Area Field Command,Area Field Command,23 Division,Detective Sergeant/ Staff Sergeant,7
+9,2014,Area Field Command,Area Field Command,23 Division,Inspector,1
+10,2014,Area Field Command,Area Field Command,23 Division,Police Constable,186
+11,2014,Area Field Command,Area Field Command,23 Division,Sergeant/Detective,34
+12,2014,Area Field Command,Area Field Command,23 Division,Superintendent & Above,1
+13,2014,Area Field Command,Area Field Command,31 Division,Civilian,15
+14,2014,Area Field Command,Area Field Command,31 Division,Detective Sergeant/ Staff Sergeant,7
+15,2014,Area Field Command,Area Field Command,31 Division,Inspector,1
+16,2014,Area Field Command,Area Field Command,31 Division,Police Constable,188
+17,2014,Area Field Command,Area Field Command,31 Division,Sergeant/Detective,35
+18,2014,Area Field Command,Area Field Command,31 Division,Superintendent & Above,1
+19,2014,Area Field Command,Area Field Command,32 Division,Civilian,15
+20,2014,Area Field Command,Area Field Command,32 Division,Detective Sergeant/ Staff Sergeant,8
+21,2014,Area Field Command,Area Field Command,32 Division,Inspector,1
+22,2014,Area Field Command,Area Field Command,32 Division,Police Constable,165
+23,2014,Area Field Command,Area Field Command,32 Division,Sergeant/Detective,31
+24,2014,Area Field Command,Area Field Command,32 Division,Superintendent & Above,1
+25,2014,Area Field Command,Area Field Command,33 Division,Civilian,10
+26,2014,Area Field Command,Area Field Command,33 Division,Detective Sergeant/ Staff Sergeant,7
+27,2014,Area Field Command,Area Field Command,33 Division,Inspector,1
+28,2014,Area Field Command,Area Field Command,33 Division,Police Constable,117
+29,2014,Area Field Command,Area Field Command,33 Division,Sergeant/Detective,30
+30,2014,Area Field Command,Area Field Command,33 Division,Superintendent & Above,1
+31,2014,Area Field Command,Area Field Command,41 Division,Civilian,14
+32,2014,Area Field Command,Area Field Command,41 Division,Detective Sergeant/ Staff Sergeant,7
+33,2014,Area Field Command,Area Field Command,41 Division,Inspector,1
+34,2014,Area Field Command,Area Field Command,41 Division,Police Constable,187
+35,2014,Area Field Command,Area Field Command,41 Division,Sergeant/Detective,36
+36,2014,Area Field Command,Area Field Command,41 Division,Superintendent & Above,1
+37,2014,Area Field Command,Area Field Command,42 Division,Civilian,15
+38,2014,Area Field Command,Area Field Command,42 Division,Detective Sergeant/ Staff Sergeant,7
+39,2014,Area Field Command,Area Field Command,42 Division,Inspector,1
+40,2014,Area Field Command,Area Field Command,42 Division,Police Constable,164
+41,2014,Area Field Command,Area Field Command,42 Division,Sergeant/Detective,31
+42,2014,Area Field Command,Area Field Command,42 Division,Superintendent & Above,1
+43,2014,Area Field Command,Area Field Command,43 Division,Civilian,15
+44,2014,Area Field Command,Area Field Command,43 Division,Detective Sergeant/ Staff Sergeant,8
+45,2014,Area Field Command,Area Field Command,43 Division,Inspector,1
+46,2014,Area Field Command,Area Field Command,43 Division,Police Constable,199
+47,2014,Area Field Command,Area Field Command,43 Division,Sergeant/Detective,34
+48,2014,Area Field Command,Area Field Command,43 Division,Superintendent & Above,1
+49,2014,Area Field Command,Area Field Command,Area Field Command,Civilian,6
+50,2014,Area Field Command,Area Field Command,Area Field Command,Detective Sergeant/ Staff Sergeant,1
+51,2014,Central Field Command,Central Field Command,55 Division,Sergeant/Detective,66
+52,2014,Central Field Command,Central Field Command,55 Division,Superintendent & Above,2
+53,2014,Central Field Command,Central Field Command,Central Field Command,Civilian,1
+54,2014,Central Field Command,Central Field Command,Central Field Command,Detective Sergeant/ Staff Sergeant,3
+55,2014,Central Field Command,Central Field Command,Central Field Command,Inspector,1
+56,2014,Central Field Command,Central Field Command,Central Field Command,Police Constable,1
+57,2014,Central Field Command,Central Field Command,Central Field Command,Sergeant/Detective,3
+58,2014,Central Field Command,Central Field Command,Central Field Command,Superintendent & Above,1
+59,2014,COS,COS,COS,Civilian,5
+60,2014,COS,COS,COS,Detective Sergeant/ Staff Sergeant,3
+61,2014,COS,COS,COS,Inspector,1
+62,2014,COS,COS,COS,Police Constable,87
+63,2014,COS,COS,COS,Sergeant/Detective,14
+64,2014,COS,COS,COS,Superintendent & Above,1
+65,2014,Duty Operations Command,Duty Operations Command,Duty Operations Command,Civilian,3
+66,2014,Duty Operations Command,Duty Operations Command,Duty Operations Command,Detective Sergeant/ Staff Sergeant,7
+67,2014,Duty Operations Command,Duty Operations Command,Duty Operations Command,Inspector,0
+68,2014,Duty Operations Command,Duty Operations Command,Duty Operations Command,Police Constable,12
+69,2014,Duty Operations Command,Duty Operations Command,Duty Operations Command,Sergeant/Detective,5
+70,2014,Duty Operations Command,Duty Operations Command,Duty Operations Command,Superintendent & Above,1
+71,2014,Policing Operations Command,Policing Operations Command,Policing Operations Command,Civilian,5
+72,2014,Policing Operations Command,Policing Operations Command,Policing Operations Command,Detective Sergeant/ Staff Sergeant,2
+73,2014,Policing Operations Command,Policing Operations Command,Policing Operations Command,Inspector,0
+74,2014,Policing Operations Command,Policing Operations Command,Policing Operations Command,Police Constable,65
+75,2014,Policing Operations Command,Policing Operations Command,Policing Operations Command,Sergeant/Detective,8
+76,2014,Policing Operations Command,Policing Operations Command,Policing Operations Command,Superintendent & Above,1
+77,2015,Area Field Command,Area Field Command,22 Division,Civilian,12
+78,2015,Area Field Command,Area Field Command,22 Division,Detective Sergeant/ Staff Sergeant,7
+79,2015,Area Field Command,Area Field Command,22 Division,Inspector,1
+80,2015,Area Field Command,Area Field Command,22 Division,Police Constable,157
+81,2015,Area Field Command,Area Field Command,22 Division,Sergeant/Detective,30
+82,2015,Area Field Command,Area Field Command,22 Division,Superintendent & Above,1
+83,2015,Area Field Command,Area Field Command,23 Division,Civilian,12
+84,2015,Area Field Command,Area Field Command,23 Division,Detective Sergeant/ Staff Sergeant,7
+85,2015,Area Field Command,Area Field Command,23 Division,Inspector,1
+86,2015,Area Field Command,Area Field Command,23 Division,Police Constable,189
+87,2015,Area Field Command,Area Field Command,23 Division,Sergeant/Detective,33
+88,2015,Area Field Command,Area Field Command,23 Division,Superintendent & Above,1
+89,2015,Area Field Command,Area Field Command,31 Division,Civilian,14
+90,2015,Area Field Command,Area Field Command,31 Division,Detective Sergeant/ Staff Sergeant,8
+91,2015,Area Field Command,Area Field Command,31 Division,Inspector,1
+92,2015,Area Field Command,Area Field Command,31 Division,Police Constable,190
+93,2015,Area Field Command,Area Field Command,31 Division,Sergeant/Detective,36
+94,2015,Area Field Command,Area Field Command,31 Division,Superintendent & Above,1
+95,2015,Area Field Command,Area Field Command,32 Division,Civilian,15
+96,2015,Area Field Command,Area Field Command,32 Division,Detective Sergeant/ Staff Sergeant,7
+97,2015,Area Field Command,Area Field Command,32 Division,Inspector,1
+98,2015,Area Field Command,Area Field Command,32 Division,Police Constable,169
+99,2015,Area Field Command,Area Field Command,32 Division,Sergeant/Detective,32
+100,2015,Area Field Command,Area Field Command,32 Division,Superintendent & Above,1
+101,2016,Area Field Command,Area Field Command,Area Field Command,Civilian,2
+102,2016,Area Field Command,Area Field Command,Area Field Command,Detective Sergeant/ Staff Sergeant,1
+103,2016,Area Field Command,Area Field Command,Area Field Command,Inspector,0
+104,2016,Area Field Command,Area Field Command,Area Field Command,Police Constable,2
+105,2016,Area Field Command,Area Field Command,Area Field Command,Sergeant/Detective,1
+106,2016,Area Field Command,Area Field Command,Area Field Command,Superintendent & Above,1
+107,2016,Central Field Command,Central Field Command,11 Division,Civilian,13
+108,2016,Central Field Command,Central Field Command,11 Division,Detective Sergeant/ Staff Sergeant,7
+109,2016,Central Field Command,Central Field Command,11 Division,Inspector,1
+110,2016,Central Field Command,Central Field Command,11 Division,Police Constable,157
+111,2016,Central Field Command,Central Field Command,11 Division,Sergeant/Detective,32
+112,2016,Central Field Command,Central Field Command,11 Division,Superintendent & Above,1
+113,2016,Central Field Command,Central Field Command,12 Division,Civilian,13
+114,2016,Central Field Command,Central Field Command,12 Division,Detective Sergeant/ Staff Sergeant,7
+115,2016,Central Field Command,Central Field Command,12 Division,Inspector,0
+116,2016,Central Field Command,Central Field Command,12 Division,Police Constable,159
+117,2016,Central Field Command,Central Field Command,12 Division,Sergeant/Detective,30
+118,2016,Central Field Command,Central Field Command,12 Division,Superintendent & Above,1
+119,2016,Central Field Command,Central Field Command,13 Division,Civilian,9
+120,2016,Central Field Command,Central Field Command,13 Division,Detective Sergeant/ Staff Sergeant,7
+121,2016,Central Field Command,Central Field Command,13 Division,Inspector,1
+122,2016,Central Field Command,Central Field Command,13 Division,Police Constable,130
+123,2016,Central Field Command,Central Field Command,13 Division,Sergeant/Detective,30
+124,2016,Central Field Command,Central Field Command,13 Division,Superintendent & Above,1
+125,2016,Central Field Command,Central Field Command,14 Division,Civilian,13
+126,2016,Central Field Command,Central Field Command,14 Division,Detective Sergeant/ Staff Sergeant,7
+127,2016,Central Field Command,Central Field Command,14 Division,Inspector,1
+128,2016,Central Field Command,Central Field Command,14 Division,Police Constable,202
+129,2016,Central Field Command,Central Field Command,14 Division,Sergeant/Detective,38
+130,2016,Central Field Command,Central Field Command,14 Division,Superintendent & Above,1
+131,2016,Central Field Command,Central Field Command,51 Division,Civilian,11
+132,2016,Central Field Command,Central Field Command,51 Division,Detective Sergeant/ Staff Sergeant,9
+133,2016,Central Field Command,Central Field Command,51 Division,Inspector,1
+134,2016,Central Field Command,Central Field Command,51 Division,Police Constable,199
+135,2016,Central Field Command,Central Field Command,51 Division,Sergeant/Detective,36
+136,2016,Central Field Command,Central Field Command,51 Division,Superintendent & Above,1
+137,2016,Central Field Command,Central Field Command,52 Division,Civilian,16
+138,2016,Central Field Command,Central Field Command,52 Division,Detective Sergeant/ Staff Sergeant,5
+139,2016,Central Field Command,Central Field Command,52 Division,Inspector,1
+140,2016,Central Field Command,Central Field Command,52 Division,Police Constable,177
+141,2016,Central Field Command,Central Field Command,52 Division,Sergeant/Detective,42
+142,2016,Central Field Command,Central Field Command,52 Division,Superintendent & Above,1
+143,2016,Central Field Command,Central Field Command,53 Division,Civilian,9
+144,2016,Central Field Command,Central Field Command,53 Division,Detective Sergeant/ Staff Sergeant,7
+145,2016,Central Field Command,Central Field Command,53 Division,Inspector,2
+146,2016,Central Field Command,Central Field Command,53 Division,Police Constable,128
+147,2016,Central Field Command,Central Field Command,53 Division,Sergeant/Detective,32
+148,2016,Central Field Command,Central Field Command,53 Division,Superintendent & Above,0
+149,2016,Central Field Command,Central Field Command,55 Division,Civilian,29
+150,2016,Central Field Command,Central Field Command,55 Division,Detective Sergeant/ Staff Sergeant,14
+151,2014,Area Field Command,Area Field Command,Area Field Command,Inspector,0
+152,2014,Area Field Command,Area Field Command,Area Field Command,Police Constable,2
+153,2014,Area Field Command,Area Field Command,Area Field Command,Sergeant/Detective,2
+154,2014,Area Field Command,Area Field Command,Area Field Command,Superintendent & Above,1
+155,2014,Central Field Command,Central Field Command,11 Division,Civilian,14
+156,2014,Central Field Command,Central Field Command,11 Division,Detective Sergeant/ Staff Sergeant,7
+157,2014,Central Field Command,Central Field Command,11 Division,Inspector,1
+158,2014,Central Field Command,Central Field Command,11 Division,Police Constable,157
+159,2014,Central Field Command,Central Field Command,11 Division,Sergeant/Detective,33
+160,2014,Central Field Command,Central Field Command,11 Division,Superintendent & Above,1
+161,2014,Central Field Command,Central Field Command,12 Division,Civilian,14
+162,2014,Central Field Command,Central Field Command,12 Division,Detective Sergeant/ Staff Sergeant,6
+163,2014,Central Field Command,Central Field Command,12 Division,Inspector,1
+164,2014,Central Field Command,Central Field Command,12 Division,Police Constable,155
+165,2014,Central Field Command,Central Field Command,12 Division,Sergeant/Detective,32
+166,2014,Central Field Command,Central Field Command,12 Division,Superintendent & Above,1
+167,2014,Central Field Command,Central Field Command,13 Division,Civilian,8
+168,2014,Central Field Command,Central Field Command,13 Division,Detective Sergeant/ Staff Sergeant,7
+169,2014,Central Field Command,Central Field Command,13 Division,Inspector,1
+170,2014,Central Field Command,Central Field Command,13 Division,Police Constable,125
+171,2014,Central Field Command,Central Field Command,13 Division,Sergeant/Detective,33
+172,2014,Central Field Command,Central Field Command,13 Division,Superintendent & Above,1
+173,2014,Central Field Command,Central Field Command,14 Division,Civilian,15
+174,2014,Central Field Command,Central Field Command,14 Division,Detective Sergeant/ Staff Sergeant,7
+175,2014,Central Field Command,Central Field Command,14 Division,Inspector,1
+176,2014,Central Field Command,Central Field Command,14 Division,Police Constable,199
+177,2014,Central Field Command,Central Field Command,14 Division,Sergeant/Detective,43
+178,2014,Central Field Command,Central Field Command,14 Division,Superintendent & Above,1
+179,2014,Central Field Command,Central Field Command,51 Division,Civilian,14
+180,2014,Central Field Command,Central Field Command,51 Division,Detective Sergeant/ Staff Sergeant,8
+181,2014,Central Field Command,Central Field Command,51 Division,Inspector,1
+182,2014,Central Field Command,Central Field Command,51 Division,Police Constable,195
+183,2014,Central Field Command,Central Field Command,51 Division,Sergeant/Detective,39
+184,2014,Central Field Command,Central Field Command,51 Division,Superintendent & Above,1
+185,2014,Central Field Command,Central Field Command,52 Division,Civilian,16
+186,2014,Central Field Command,Central Field Command,52 Division,Detective Sergeant/ Staff Sergeant,8
+187,2014,Central Field Command,Central Field Command,52 Division,Inspector,1
+188,2014,Central Field Command,Central Field Command,52 Division,Police Constable,172
+189,2014,Central Field Command,Central Field Command,52 Division,Sergeant/Detective,41
+190,2014,Central Field Command,Central Field Command,52 Division,Superintendent & Above,1
+191,2014,Central Field Command,Central Field Command,53 Division,Civilian,9
+192,2014,Central Field Command,Central Field Command,53 Division,Detective Sergeant/ Staff Sergeant,7
+193,2014,Central Field Command,Central Field Command,53 Division,Inspector,1
+194,2014,Central Field Command,Central Field Command,53 Division,Police Constable,125
+195,2014,Central Field Command,Central Field Command,53 Division,Sergeant/Detective,31
+196,2014,Central Field Command,Central Field Command,53 Division,Superintendent & Above,1
+197,2014,Central Field Command,Central Field Command,55 Division,Civilian,28
+198,2014,Central Field Command,Central Field Command,55 Division,Detective Sergeant/ Staff Sergeant,14
+199,2014,Central Field Command,Central Field Command,55 Division,Inspector,2
+200,2014,Central Field Command,Central Field Command,55 Division,Police Constable,292
+201,2015,Area Field Command,Area Field Command,33 Division,Civilian,9
+202,2015,Area Field Command,Area Field Command,33 Division,Detective Sergeant/ Staff Sergeant,7
+203,2015,Area Field Command,Area Field Command,33 Division,Inspector,1
+204,2015,Area Field Command,Area Field Command,33 Division,Police Constable,117
+205,2015,Area Field Command,Area Field Command,33 Division,Sergeant/Detective,31
+206,2015,Area Field Command,Area Field Command,33 Division,Superintendent & Above,1
+207,2015,Area Field Command,Area Field Command,41 Division,Civilian,13
+208,2015,Area Field Command,Area Field Command,41 Division,Detective Sergeant/ Staff Sergeant,7
+209,2015,Area Field Command,Area Field Command,41 Division,Inspector,1
+210,2015,Area Field Command,Area Field Command,41 Division,Police Constable,187
+211,2015,Area Field Command,Area Field Command,41 Division,Sergeant/Detective,37
+212,2015,Area Field Command,Area Field Command,41 Division,Superintendent & Above,1
+213,2015,Area Field Command,Area Field Command,42 Division,Civilian,14
+214,2015,Area Field Command,Area Field Command,42 Division,Detective Sergeant/ Staff Sergeant,7
+215,2015,Area Field Command,Area Field Command,42 Division,Inspector,1
+216,2015,Area Field Command,Area Field Command,42 Division,Police Constable,163
+217,2015,Policing Operations Command,Policing Operations Command,Policing Operations Command,Sergeant/Detective,9
+218,2015,Area Field Command,Area Field Command,42 Division,Sergeant/Detective,32
+219,2015,Area Field Command,Area Field Command,42 Division,Superintendent & Above,1
+220,2015,Area Field Command,Area Field Command,43 Division,Civilian,14
+221,2015,Area Field Command,Area Field Command,43 Division,Detective Sergeant/ Staff Sergeant,8
+222,2015,Area Field Command,Area Field Command,43 Division,Inspector,1
+223,2015,Area Field Command,Area Field Command,43 Division,Police Constable,197
+224,2015,Area Field Command,Area Field Command,43 Division,Sergeant/Detective,34
+225,2015,Area Field Command,Area Field Command,43 Division,Superintendent & Above,1
+226,2015,Area Field Command,Area Field Command,Area Field Command,Civilian,2
+227,2015,Area Field Command,Area Field Command,Area Field Command,Detective Sergeant/ Staff Sergeant,1
+228,2015,Area Field Command,Area Field Command,Area Field Command,Inspector,0
+229,2015,Area Field Command,Area Field Command,Area Field Command,Police Constable,1
+230,2015,Area Field Command,Area Field Command,Area Field Command,Sergeant/Detective,1
+231,2015,Area Field Command,Area Field Command,Area Field Command,Superintendent & Above,1
+232,2015,Central Field Command,Central Field Command,11 Division,Civilian,14
+233,2015,Central Field Command,Central Field Command,11 Division,Detective Sergeant/ Staff Sergeant,6
+234,2015,Central Field Command,Central Field Command,11 Division,Inspector,1
+235,2015,Central Field Command,Central Field Command,11 Division,Police Constable,160
+236,2015,Central Field Command,Central Field Command,11 Division,Sergeant/Detective,34
+237,2015,Central Field Command,Central Field Command,11 Division,Superintendent & Above,1
+238,2015,Central Field Command,Central Field Command,12 Division,Civilian,13
+239,2015,Central Field Command,Central Field Command,12 Division,Detective Sergeant/ Staff Sergeant,7
+240,2015,Central Field Command,Central Field Command,12 Division,Inspector,1
+241,2015,Central Field Command,Central Field Command,12 Division,Police Constable,161
+242,2015,Central Field Command,Central Field Command,12 Division,Sergeant/Detective,31
+243,2015,Central Field Command,Central Field Command,12 Division,Superintendent & Above,1
+244,2015,Central Field Command,Central Field Command,13 Division,Civilian,8
+245,2015,Central Field Command,Central Field Command,13 Division,Detective Sergeant/ Staff Sergeant,8
+246,2015,Central Field Command,Central Field Command,13 Division,Inspector,1
+247,2015,Central Field Command,Central Field Command,13 Division,Police Constable,129
+248,2015,Central Field Command,Central Field Command,13 Division,Sergeant/Detective,33
+249,2015,Central Field Command,Central Field Command,13 Division,Superintendent & Above,1
+250,2015,Central Field Command,Central Field Command,14 Division,Civilian,16
+251,2015,Central Field Command,Central Field Command,14 Division,Detective Sergeant/ Staff Sergeant,7
+252,2015,Policing Operations Command,Policing Operations Command,Policing Operations Command,Superintendent & Above,1
+253,2016,Area Field Command,Area Field Command,22 Division,Civilian,12
+254,2016,Area Field Command,Area Field Command,22 Division,Detective Sergeant/ Staff Sergeant,8
+255,2016,Area Field Command,Area Field Command,22 Division,Inspector,0
+256,2016,Area Field Command,Area Field Command,22 Division,Police Constable,157
+257,2016,Area Field Command,Area Field Command,22 Division,Sergeant/Detective,30
+258,2016,Area Field Command,Area Field Command,22 Division,Superintendent & Above,1
+259,2016,Area Field Command,Area Field Command,23 Division,Civilian,11
+260,2016,Area Field Command,Area Field Command,23 Division,Detective Sergeant/ Staff Sergeant,7
+261,2016,Area Field Command,Area Field Command,23 Division,Inspector,1
+262,2016,Area Field Command,Area Field Command,23 Division,Police Constable,183
+263,2016,Area Field Command,Area Field Command,23 Division,Sergeant/Detective,31
+264,2016,Area Field Command,Area Field Command,23 Division,Superintendent & Above,1
+265,2016,Area Field Command,Area Field Command,31 Division,Civilian,14
+266,2016,Area Field Command,Area Field Command,31 Division,Detective Sergeant/ Staff Sergeant,8
+267,2016,Area Field Command,Area Field Command,31 Division,Inspector,1
+268,2016,Area Field Command,Area Field Command,31 Division,Police Constable,184
+269,2016,Area Field Command,Area Field Command,31 Division,Sergeant/Detective,35
+270,2016,Area Field Command,Area Field Command,31 Division,Superintendent & Above,1
+271,2016,Area Field Command,Area Field Command,32 Division,Civilian,15
+272,2016,Area Field Command,Area Field Command,32 Division,Detective Sergeant/ Staff Sergeant,7
+273,2016,Area Field Command,Area Field Command,32 Division,Inspector,1
+274,2016,Area Field Command,Area Field Command,32 Division,Police Constable,163
+275,2016,Area Field Command,Area Field Command,32 Division,Sergeant/Detective,31
+276,2016,Area Field Command,Area Field Command,32 Division,Superintendent & Above,1
+277,2016,Area Field Command,Area Field Command,33 Division,Civilian,9
+278,2016,Area Field Command,Area Field Command,33 Division,Detective Sergeant/ Staff Sergeant,8
+279,2016,Area Field Command,Area Field Command,33 Division,Inspector,0
+280,2016,Area Field Command,Area Field Command,33 Division,Police Constable,118
+281,2016,Area Field Command,Area Field Command,33 Division,Sergeant/Detective,28
+282,2016,Area Field Command,Area Field Command,33 Division,Superintendent & Above,1
+283,2016,Area Field Command,Area Field Command,41 Division,Civilian,13
+284,2016,Area Field Command,Area Field Command,41 Division,Detective Sergeant/ Staff Sergeant,7
+285,2016,Area Field Command,Area Field Command,41 Division,Inspector,1
+286,2016,Area Field Command,Area Field Command,41 Division,Police Constable,178
+287,2016,Area Field Command,Area Field Command,41 Division,Sergeant/Detective,34
+288,2016,Area Field Command,Area Field Command,41 Division,Superintendent & Above,1
+289,2016,Area Field Command,Area Field Command,42 Division,Civilian,14
+290,2016,Area Field Command,Area Field Command,42 Division,Detective Sergeant/ Staff Sergeant,7
+291,2016,Area Field Command,Area Field Command,42 Division,Inspector,1
+292,2016,Area Field Command,Area Field Command,42 Division,Police Constable,162
+293,2016,Area Field Command,Area Field Command,42 Division,Sergeant/Detective,32
+294,2016,Area Field Command,Area Field Command,42 Division,Superintendent & Above,1
+295,2016,Area Field Command,Area Field Command,43 Division,Civilian,12
+296,2016,Area Field Command,Area Field Command,43 Division,Detective Sergeant/ Staff Sergeant,7
+297,2016,Area Field Command,Area Field Command,43 Division,Inspector,1
+298,2016,Area Field Command,Area Field Command,43 Division,Police Constable,195
+299,2016,Area Field Command,Area Field Command,43 Division,Sergeant/Detective,33
+300,2016,Area Field Command,Area Field Command,43 Division,Superintendent & Above,1
+301,2016,Central Field Command,Central Field Command,55 Division,Inspector,2
+302,2016,Central Field Command,Central Field Command,55 Division,Police Constable,289
+303,2016,Central Field Command,Central Field Command,55 Division,Sergeant/Detective,63
+304,2016,Central Field Command,Central Field Command,55 Division,Superintendent & Above,1
+305,2016,Central Field Command,Central Field Command,Central Field Command,Civilian,1
+306,2016,Central Field Command,Central Field Command,Central Field Command,Detective Sergeant/ Staff Sergeant,2
+307,2016,Central Field Command,Central Field Command,Central Field Command,Inspector,0
+308,2016,Central Field Command,Central Field Command,Central Field Command,Police Constable,1
+309,2016,Central Field Command,Central Field Command,Central Field Command,Sergeant/Detective,1
+310,2016,Central Field Command,Central Field Command,Central Field Command,Superintendent & Above,1
+311,2016,COS,COS,COS,Civilian,4
+312,2016,COS,COS,COS,Detective Sergeant/ Staff Sergeant,3
+313,2016,COS,COS,COS,Inspector,1
+314,2016,COS,COS,COS,Police Constable,78
+315,2016,COS,COS,COS,Sergeant/Detective,15
+316,2016,COS,COS,COS,Superintendent & Above,0
+317,2016,Duty Operations Command,Duty Operations Command,Duty Operations Command,Civilian,3
+318,2016,Duty Operations Command,Duty Operations Command,Duty Operations Command,Detective Sergeant/ Staff Sergeant,6
+319,2016,Duty Operations Command,Duty Operations Command,Duty Operations Command,Inspector,0
+320,2016,Duty Operations Command,Duty Operations Command,Duty Operations Command,Police Constable,14
+321,2016,Duty Operations Command,Duty Operations Command,Duty Operations Command,Sergeant/Detective,5
+322,2016,Duty Operations Command,Duty Operations Command,Duty Operations Command,Superintendent & Above,1
+323,2016,Policing Operations Command,Policing Operations Command,Policing Operations Command,Civilian,1
+324,2016,Policing Operations Command,Policing Operations Command,Policing Operations Command,Detective Sergeant/ Staff Sergeant,2
+325,2016,Policing Operations Command,Policing Operations Command,Policing Operations Command,Inspector,0
+326,2016,Policing Operations Command,Policing Operations Command,Policing Operations Command,Police Constable,63
+327,2016,Policing Operations Command,Policing Operations Command,Policing Operations Command,Sergeant/Detective,9
+328,2016,Policing Operations Command,Policing Operations Command,Policing Operations Command,Superintendent & Above,0
+329,2017,Area Field Command,Area Field Command,22 Division,Civilian,13
+330,2017,Area Field Command,Area Field Command,22 Division,Detective Sergeant/ Staff Sergeant,7
+331,2017,Area Field Command,Area Field Command,22 Division,Inspector,0
+332,2017,Area Field Command,Area Field Command,22 Division,Police Constable,170
+333,2017,Area Field Command,Area Field Command,22 Division,Sergeant/Detective,30
+334,2017,Area Field Command,Area Field Command,22 Division,Superintendent & Above,0
+335,2017,Area Field Command,Area Field Command,23 Division,Civilian,11
+336,2017,Area Field Command,Area Field Command,23 Division,Detective Sergeant/ Staff Sergeant,7
+337,2017,Area Field Command,Area Field Command,23 Division,Inspector,1
+338,2017,Area Field Command,Area Field Command,23 Division,Police Constable,170
+339,2017,Area Field Command,Area Field Command,23 Division,Sergeant/Detective,30
+340,2017,Area Field Command,Area Field Command,23 Division,Superintendent & Above,1
+341,2017,Area Field Command,Area Field Command,31 Division,Civilian,14
+342,2017,Area Field Command,Area Field Command,31 Division,Detective Sergeant/ Staff Sergeant,7
+343,2017,Area Field Command,Area Field Command,31 Division,Inspector,1
+344,2017,Area Field Command,Area Field Command,31 Division,Police Constable,175
+345,2017,Area Field Command,Area Field Command,31 Division,Sergeant/Detective,31
+346,2017,Area Field Command,Area Field Command,31 Division,Superintendent & Above,0
+347,2017,Area Field Command,Area Field Command,32 Division,Civilian,15
+348,2017,Area Field Command,Area Field Command,32 Division,Detective Sergeant/ Staff Sergeant,8
+349,2017,Area Field Command,Area Field Command,32 Division,Inspector,0
+350,2017,Area Field Command,Area Field Command,32 Division,Police Constable,161
+351,2015,Central Field Command,Central Field Command,14 Division,Inspector,1
+352,2015,Central Field Command,Central Field Command,14 Division,Police Constable,205
+353,2015,Central Field Command,Central Field Command,14 Division,Sergeant/Detective,42
+354,2015,Central Field Command,Central Field Command,14 Division,Superintendent & Above,1
+355,2015,Central Field Command,Central Field Command,51 Division,Civilian,13
+356,2015,Central Field Command,Central Field Command,51 Division,Detective Sergeant/ Staff Sergeant,8
+357,2015,Central Field Command,Central Field Command,51 Division,Inspector,1
+358,2015,Central Field Command,Central Field Command,51 Division,Police Constable,208
+359,2015,Central Field Command,Central Field Command,51 Division,Sergeant/Detective,39
+360,2015,Central Field Command,Central Field Command,51 Division,Superintendent & Above,1
+361,2015,Central Field Command,Central Field Command,52 Division,Civilian,19
+362,2015,Central Field Command,Central Field Command,52 Division,Detective Sergeant/ Staff Sergeant,7
+363,2015,Central Field Command,Central Field Command,52 Division,Inspector,1
+364,2015,Central Field Command,Central Field Command,52 Division,Police Constable,177
+365,2015,Central Field Command,Central Field Command,52 Division,Sergeant/Detective,44
+366,2015,Central Field Command,Central Field Command,52 Division,Superintendent & Above,1
+367,2015,Central Field Command,Central Field Command,53 Division,Civilian,8
+368,2015,Central Field Command,Central Field Command,53 Division,Detective Sergeant/ Staff Sergeant,7
+369,2015,Central Field Command,Central Field Command,53 Division,Inspector,1
+370,2015,Central Field Command,Central Field Command,53 Division,Police Constable,128
+371,2015,Central Field Command,Central Field Command,53 Division,Sergeant/Detective,30
+372,2015,Central Field Command,Central Field Command,53 Division,Superintendent & Above,1
+373,2015,Central Field Command,Central Field Command,55 Division,Civilian,29
+374,2015,Central Field Command,Central Field Command,55 Division,Detective Sergeant/ Staff Sergeant,14
+375,2015,Central Field Command,Central Field Command,55 Division,Inspector,2
+376,2015,Central Field Command,Central Field Command,55 Division,Police Constable,302
+377,2015,Central Field Command,Central Field Command,55 Division,Sergeant/Detective,66
+378,2015,Central Field Command,Central Field Command,55 Division,Superintendent & Above,2
+379,2015,Central Field Command,Central Field Command,Central Field Command,Civilian,1
+380,2015,Central Field Command,Central Field Command,Central Field Command,Detective Sergeant/ Staff Sergeant,2
+381,2015,Central Field Command,Central Field Command,Central Field Command,Inspector,0
+382,2015,Central Field Command,Central Field Command,Central Field Command,Police Constable,1
+383,2015,Central Field Command,Central Field Command,Central Field Command,Sergeant/Detective,2
+384,2015,Central Field Command,Central Field Command,Central Field Command,Superintendent & Above,1
+385,2015,COS,COS,COS,Civilian,1
+386,2015,COS,COS,COS,Detective Sergeant/ Staff Sergeant,4
+387,2015,COS,COS,COS,Inspector,1
+388,2015,COS,COS,COS,Police Constable,85
+389,2015,COS,COS,COS,Sergeant/Detective,15
+390,2015,COS,COS,COS,Superintendent & Above,1
+391,2015,Duty Operations Command,Duty Operations Command,Duty Operations Command,Civilian,3
+392,2015,Duty Operations Command,Duty Operations Command,Duty Operations Command,Detective Sergeant/ Staff Sergeant,7
+393,2015,Duty Operations Command,Duty Operations Command,Duty Operations Command,Inspector,0
+394,2015,Duty Operations Command,Duty Operations Command,Duty Operations Command,Police Constable,14
+395,2015,Duty Operations Command,Duty Operations Command,Duty Operations Command,Sergeant/Detective,5
+396,2015,Duty Operations Command,Duty Operations Command,Duty Operations Command,Superintendent & Above,1
+397,2015,Policing Operations Command,Policing Operations Command,Policing Operations Command,Civilian,2
+398,2015,Policing Operations Command,Policing Operations Command,Policing Operations Command,Detective Sergeant/ Staff Sergeant,2
+399,2015,Policing Operations Command,Policing Operations Command,Policing Operations Command,Inspector,0
+400,2015,Policing Operations Command,Policing Operations Command,Policing Operations Command,Police Constable,65
+401,2018,Priority Response Command,East Field Command,42 Division,Civilian,14
+402,2018,Priority Response Command,East Field Command,42 Division,Detective Sergeant/ Staff Sergeant,35
+403,2018,Priority Response Command,East Field Command,42 Division,Inspector,1
+404,2018,Priority Response Command,East Field Command,42 Division,Police Constable,142
+405,2018,Priority Response Command,East Field Command,42 Division,Sergeant/Detective,31
+406,2018,Priority Response Command,East Field Command,42 Division,Superintendent & Above,1
+407,2018,Priority Response Command,East Field Command,43 Division,Civilian,10
+408,2018,Priority Response Command,East Field Command,43 Division,Detective Sergeant/ Staff Sergeant,41
+409,2018,Priority Response Command,East Field Command,43 Division,Inspector,0
+410,2018,Priority Response Command,East Field Command,43 Division,Police Constable,173
+411,2018,Priority Response Command,East Field Command,43 Division,Sergeant/Detective,33
+412,2018,Priority Response Command,East Field Command,43 Division,Superintendent & Above,1
+413,2018,Priority Response Command,East Field Command,53 Division,Civilian,7
+414,2018,Priority Response Command,East Field Command,53 Division,Detective Sergeant/ Staff Sergeant,34
+415,2018,Priority Response Command,East Field Command,53 Division,Inspector,1
+416,2018,Priority Response Command,East Field Command,53 Division,Police Constable,108
+417,2018,Priority Response Command,East Field Command,53 Division,Sergeant/Detective,28
+418,2018,Priority Response Command,East Field Command,53 Division,Superintendent & Above,0
+419,2018,Priority Response Command,East Field Command,55 Division,Civilian,22
+420,2018,Priority Response Command,East Field Command,55 Division,Detective Sergeant/ Staff Sergeant,54
+421,2018,Priority Response Command,East Field Command,55 Division,Inspector,1
+422,2018,Priority Response Command,East Field Command,55 Division,Police Constable,252
+423,2018,Priority Response Command,East Field Command,55 Division,Sergeant/Detective,48
+424,2018,Priority Response Command,East Field Command,55 Division,Superintendent & Above,1
+425,2018,Priority Response Command,East Field Command,Communication Services,Civilian,333
+426,2018,Priority Response Command,East Field Command,Communication Services,Detective Sergeant/ Staff Sergeant,15
+427,2018,Priority Response Command,East Field Command,Communication Services,Inspector,1
+428,2018,Priority Response Command,East Field Command,Communication Services,Police Constable,40
+429,2018,Priority Response Command,East Field Command,Communication Services,Sergeant/Detective,11
+430,2018,Priority Response Command,East Field Command,Communication Services,Superintendent & Above,0
+431,2018,Priority Response Command,East Field Command,Court Services,Civilian,622
+432,2018,Priority Response Command,East Field Command,Court Services,Detective Sergeant/ Staff Sergeant,7
+433,2018,Priority Response Command,East Field Command,Court Services,Inspector,1
+434,2018,Priority Response Command,East Field Command,Court Services,Police Constable,0
+435,2018,Priority Response Command,East Field Command,Court Services,Sergeant/Detective,4
+436,2018,Priority Response Command,East Field Command,Court Services,Superintendent & Above,1
+437,2018,Priority Response Command,East Field Command,East Field Command,Civilian,1
+438,2018,Priority Response Command,East Field Command,East Field Command,Detective Sergeant/ Staff Sergeant,2
+439,2018,Priority Response Command,East Field Command,East Field Command,Inspector,0
+440,2018,Priority Response Command,East Field Command,East Field Command,Police Constable,2
+441,2018,Priority Response Command,East Field Command,East Field Command,Sergeant/Detective,1
+442,2018,Priority Response Command,East Field Command,East Field Command,Superintendent & Above,1
+443,2018,Priority Response Command,East Field Command,Toronto Police Operations,Civilian,3
+444,2018,Priority Response Command,East Field Command,Toronto Police Operations,Detective Sergeant/ Staff Sergeant,23
+445,2018,Priority Response Command,East Field Command,Toronto Police Operations,Inspector,7
+446,2018,Priority Response Command,East Field Command,Toronto Police Operations,Police Constable,72
+447,2018,Priority Response Command,East Field Command,Toronto Police Operations,Sergeant/Detective,19
+448,2018,Priority Response Command,East Field Command,Toronto Police Operations,Superintendent & Above,1
+449,2018,Priority Response Command,Priority Response Command,Priority Response Command,Civilian,1
+450,2018,Priority Response Command,Priority Response Command,Priority Response Command,Detective Sergeant/ Staff Sergeant,1
+451,2019,Communities & Neighbourhood Command,West Field Command,51 Division,Sergeant/Detective,30
+452,2017,Area Field Command,Area Field Command,32 Division,Sergeant/Detective,26
+453,2017,Area Field Command,Area Field Command,32 Division,Superintendent & Above,1
+454,2019,Communities & Neighbourhood Command,West Field Command,51 Division,Superintendent & Above,1
+455,2017,Area Field Command,Area Field Command,33 Division,Civilian,7
+456,2019,Communities & Neighbourhood Command,West Field Command,52 Division,Civilian,18
+457,2017,Area Field Command,Area Field Command,33 Division,Detective Sergeant/ Staff Sergeant,6
+458,2019,Communities & Neighbourhood Command,West Field Command,52 Division,Detective Sergeant/ Staff Sergeant,42
+459,2017,Area Field Command,Area Field Command,33 Division,Inspector,1
+460,2019,Communities & Neighbourhood Command,West Field Command,52 Division,Inspector,1
+461,2017,Area Field Command,Area Field Command,33 Division,Police Constable,114
+462,2019,Communities & Neighbourhood Command,West Field Command,52 Division,Police Constable,166
+463,2017,Area Field Command,Area Field Command,33 Division,Sergeant/Detective,29
+464,2019,Communities & Neighbourhood Command,West Field Command,52 Division,Sergeant/Detective,36
+465,2017,Area Field Command,Area Field Command,33 Division,Superintendent & Above,0
+466,2019,Communities & Neighbourhood Command,West Field Command,52 Division,Superintendent & Above,1
+467,2017,Area Field Command,Area Field Command,41 Division,Civilian,12
+468,2019,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Civilian,5
+469,2017,Area Field Command,Area Field Command,41 Division,Detective Sergeant/ Staff Sergeant,6
+470,2019,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Detective Sergeant/ Staff Sergeant,12
+471,2019,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Inspector,0
+472,2019,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Police Constable,18
+473,2019,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Sergeant/Detective,8
+474,2019,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Superintendent & Above,1
+475,2019,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Civilian,397
+476,2019,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Detective Sergeant/ Staff Sergeant,3
+477,2019,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Inspector,0
+478,2019,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Police Constable,1
+479,2019,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Sergeant/Detective,2
+480,2019,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Superintendent & Above,0
+481,2019,Communities & Neighbourhood Command,West Field Command,Traffic Services,Civilian,17
+482,2019,Communities & Neighbourhood Command,West Field Command,Traffic Services,Detective Sergeant/ Staff Sergeant,41
+483,2019,Communities & Neighbourhood Command,West Field Command,Traffic Services,Inspector,1
+484,2019,Communities & Neighbourhood Command,West Field Command,Traffic Services,Police Constable,236
+485,2019,Communities & Neighbourhood Command,West Field Command,Traffic Services,Sergeant/Detective,29
+486,2019,Communities & Neighbourhood Command,West Field Command,Traffic Services,Superintendent & Above,1
+487,2019,Communities & Neighbourhood Command,West Field Command,West Field Command,Civilian,1
+488,2019,Communities & Neighbourhood Command,West Field Command,West Field Command,Detective Sergeant/ Staff Sergeant,2
+489,2019,Communities & Neighbourhood Command,West Field Command,West Field Command,Inspector,0
+490,2019,Communities & Neighbourhood Command,West Field Command,West Field Command,Police Constable,0
+491,2019,Communities & Neighbourhood Command,West Field Command,West Field Command,Sergeant/Detective,1
+492,2019,Communities & Neighbourhood Command,West Field Command,West Field Command,Superintendent & Above,1
+493,2019,Priority Response Command,East Field Command,13 Division,Civilian,6
+494,2019,Priority Response Command,East Field Command,13 Division,Detective Sergeant/ Staff Sergeant,31
+495,2019,Priority Response Command,East Field Command,13 Division,Inspector,1
+496,2019,Priority Response Command,East Field Command,13 Division,Police Constable,113
+497,2019,Priority Response Command,East Field Command,13 Division,Sergeant/Detective,24
+498,2019,Priority Response Command,East Field Command,13 Division,Superintendent & Above,1
+499,2019,Priority Response Command,East Field Command,32 Division,Civilian,11
+500,2019,Priority Response Command,East Field Command,32 Division,Detective Sergeant/ Staff Sergeant,36
+501,2019,Priority Response Command,East Field Command,32 Division,Inspector,1
+502,2019,Priority Response Command,East Field Command,32 Division,Police Constable,159
+503,2019,Priority Response Command,East Field Command,32 Division,Sergeant/Detective,29
+504,2019,Priority Response Command,East Field Command,32 Division,Superintendent & Above,1
+505,2019,Priority Response Command,East Field Command,33 Division,Civilian,8
+506,2019,Priority Response Command,East Field Command,33 Division,Detective Sergeant/ Staff Sergeant,23
+507,2019,Priority Response Command,East Field Command,33 Division,Inspector,1
+508,2019,Priority Response Command,East Field Command,33 Division,Police Constable,112
+509,2019,Priority Response Command,East Field Command,33 Division,Sergeant/Detective,18
+510,2019,Priority Response Command,East Field Command,33 Division,Superintendent & Above,0
+511,2017,Area Field Command,Area Field Command,41 Division,Inspector,1
+512,2017,Area Field Command,Area Field Command,41 Division,Police Constable,165
+513,2017,Area Field Command,Area Field Command,41 Division,Sergeant/Detective,34
+514,2017,Area Field Command,Area Field Command,41 Division,Superintendent & Above,1
+515,2017,Area Field Command,Area Field Command,42 Division,Civilian,14
+516,2017,Area Field Command,Area Field Command,42 Division,Detective Sergeant/ Staff Sergeant,6
+517,2017,Area Field Command,Area Field Command,42 Division,Inspector,1
+518,2017,Area Field Command,Area Field Command,42 Division,Police Constable,153
+519,2017,Area Field Command,Area Field Command,42 Division,Sergeant/Detective,32
+520,2017,Area Field Command,Area Field Command,42 Division,Superintendent & Above,0
+521,2017,Area Field Command,Area Field Command,43 Division,Civilian,9
+522,2017,Area Field Command,Area Field Command,43 Division,Detective Sergeant/ Staff Sergeant,6
+523,2017,Area Field Command,Area Field Command,43 Division,Inspector,0
+524,2017,Area Field Command,Area Field Command,43 Division,Police Constable,190
+525,2017,Area Field Command,Area Field Command,43 Division,Sergeant/Detective,31
+526,2017,Area Field Command,Area Field Command,43 Division,Superintendent & Above,1
+527,2017,Area Field Command,Area Field Command,Area Field Command,Civilian,4
+528,2017,Area Field Command,Area Field Command,Area Field Command,Detective Sergeant/ Staff Sergeant,1
+529,2017,Area Field Command,Area Field Command,Area Field Command,Inspector,0
+530,2017,Area Field Command,Area Field Command,Area Field Command,Police Constable,2
+531,2017,Area Field Command,Area Field Command,Area Field Command,Sergeant/Detective,1
+532,2017,Area Field Command,Area Field Command,Area Field Command,Superintendent & Above,1
+533,2017,Central Field Command,Central Field Command,11 Division,Civilian,12
+534,2017,Central Field Command,Central Field Command,11 Division,Detective Sergeant/ Staff Sergeant,6
+535,2017,Central Field Command,Central Field Command,11 Division,Inspector,1
+536,2017,Central Field Command,Central Field Command,11 Division,Police Constable,146
+537,2017,Central Field Command,Central Field Command,11 Division,Sergeant/Detective,31
+538,2017,Central Field Command,Central Field Command,11 Division,Superintendent & Above,1
+539,2017,Central Field Command,Central Field Command,12 Division,Civilian,10
+540,2017,Central Field Command,Central Field Command,12 Division,Detective Sergeant/ Staff Sergeant,6
+541,2017,Central Field Command,Central Field Command,12 Division,Inspector,1
+542,2017,Central Field Command,Central Field Command,12 Division,Police Constable,149
+543,2017,Central Field Command,Central Field Command,12 Division,Sergeant/Detective,29
+544,2017,Central Field Command,Central Field Command,12 Division,Superintendent & Above,0
+545,2017,Central Field Command,Central Field Command,13 Division,Civilian,8
+546,2017,Central Field Command,Central Field Command,13 Division,Detective Sergeant/ Staff Sergeant,6
+547,2017,Central Field Command,Central Field Command,13 Division,Inspector,0
+548,2017,Central Field Command,Central Field Command,13 Division,Police Constable,119
+549,2017,Central Field Command,Central Field Command,13 Division,Sergeant/Detective,30
+550,2017,Central Field Command,Central Field Command,13 Division,Superintendent & Above,1
+551,2017,Central Field Command,Central Field Command,14 Division,Civilian,12
+552,2017,Central Field Command,Central Field Command,14 Division,Detective Sergeant/ Staff Sergeant,5
+553,2017,Central Field Command,Central Field Command,14 Division,Inspector,1
+554,2017,Central Field Command,Central Field Command,14 Division,Police Constable,196
+555,2017,Central Field Command,Central Field Command,14 Division,Sergeant/Detective,38
+556,2017,Central Field Command,Central Field Command,14 Division,Superintendent & Above,1
+557,2017,Central Field Command,Central Field Command,51 Division,Civilian,11
+558,2017,Central Field Command,Central Field Command,51 Division,Detective Sergeant/ Staff Sergeant,8
+559,2017,Central Field Command,Central Field Command,51 Division,Inspector,0
+560,2017,Central Field Command,Central Field Command,51 Division,Police Constable,195
+561,2017,Central Field Command,Central Field Command,51 Division,Sergeant/Detective,37
+562,2017,Central Field Command,Central Field Command,51 Division,Superintendent & Above,1
+563,2017,Central Field Command,Central Field Command,52 Division,Civilian,16
+564,2017,Central Field Command,Central Field Command,52 Division,Detective Sergeant/ Staff Sergeant,7
+565,2017,Central Field Command,Central Field Command,52 Division,Inspector,1
+566,2017,Central Field Command,Central Field Command,52 Division,Police Constable,168
+567,2017,Central Field Command,Central Field Command,52 Division,Sergeant/Detective,39
+568,2017,Central Field Command,Central Field Command,52 Division,Superintendent & Above,1
+569,2017,Central Field Command,Central Field Command,53 Division,Civilian,8
+570,2017,Central Field Command,Central Field Command,53 Division,Detective Sergeant/ Staff Sergeant,7
+571,2017,Central Field Command,Central Field Command,53 Division,Inspector,1
+572,2017,Central Field Command,Central Field Command,53 Division,Police Constable,123
+573,2017,Central Field Command,Central Field Command,53 Division,Sergeant/Detective,28
+574,2017,Central Field Command,Central Field Command,53 Division,Superintendent & Above,0
+575,2017,Central Field Command,Central Field Command,55 Division,Civilian,26
+576,2017,Central Field Command,Central Field Command,55 Division,Detective Sergeant/ Staff Sergeant,13
+577,2017,Central Field Command,Central Field Command,55 Division,Inspector,2
+578,2017,Central Field Command,Central Field Command,55 Division,Police Constable,274
+579,2017,Central Field Command,Central Field Command,55 Division,Sergeant/Detective,50
+580,2017,Central Field Command,Central Field Command,55 Division,Superintendent & Above,0
+581,2017,Central Field Command,Central Field Command,Central Field Command,Civilian,1
+582,2017,Central Field Command,Central Field Command,Central Field Command,Detective Sergeant/ Staff Sergeant,1
+583,2017,Central Field Command,Central Field Command,Central Field Command,Inspector,0
+584,2017,Central Field Command,Central Field Command,Central Field Command,Police Constable,1
+585,2017,Central Field Command,Central Field Command,Central Field Command,Sergeant/Detective,1
+586,2017,Central Field Command,Central Field Command,Central Field Command,Superintendent & Above,1
+587,2017,COS,COS,COS,Civilian,5
+588,2017,COS,COS,COS,Detective Sergeant/ Staff Sergeant,2
+589,2017,COS,COS,COS,Inspector,1
+590,2017,COS,COS,COS,Police Constable,18
+591,2017,COS,COS,COS,Sergeant/Detective,7
+592,2017,COS,COS,COS,Superintendent & Above,0
+593,2017,Duty Operations Command,Duty Operations Command,Duty Operations Command,Civilian,3
+594,2017,Duty Operations Command,Duty Operations Command,Duty Operations Command,Detective Sergeant/ Staff Sergeant,7
+595,2017,Duty Operations Command,Duty Operations Command,Duty Operations Command,Inspector,0
+596,2017,Duty Operations Command,Duty Operations Command,Duty Operations Command,Police Constable,76
+597,2017,Duty Operations Command,Duty Operations Command,Duty Operations Command,Sergeant/Detective,12
+598,2017,Duty Operations Command,Duty Operations Command,Duty Operations Command,Superintendent & Above,2
+599,2018,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Civilian,0
+600,2018,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Detective Sergeant/ Staff Sergeant,1
+601,2018,Communities & Neighbourhood Command,West Field Command,52 Division,Sergeant/Detective,41
+602,2018,Communities & Neighbourhood Command,West Field Command,52 Division,Superintendent & Above,1
+603,2018,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Civilian,6
+604,2018,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Detective Sergeant/ Staff Sergeant,12
+605,2018,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Inspector,0
+606,2018,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Police Constable,18
+607,2018,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Sergeant/Detective,10
+608,2018,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Superintendent & Above,1
+609,2018,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Civilian,390
+610,2018,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Detective Sergeant/ Staff Sergeant,3
+611,2018,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Inspector,0
+612,2018,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Police Constable,2
+613,2018,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Sergeant/Detective,2
+614,2018,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Superintendent & Above,0
+615,2018,Communities & Neighbourhood Command,West Field Command,Traffic Services,Civilian,17
+616,2018,Communities & Neighbourhood Command,West Field Command,Traffic Services,Detective Sergeant/ Staff Sergeant,46
+617,2018,Communities & Neighbourhood Command,West Field Command,Traffic Services,Inspector,0
+618,2018,Communities & Neighbourhood Command,West Field Command,Traffic Services,Police Constable,229
+619,2018,Communities & Neighbourhood Command,West Field Command,Traffic Services,Sergeant/Detective,37
+620,2018,Communities & Neighbourhood Command,West Field Command,Traffic Services,Superintendent & Above,1
+621,2018,Communities & Neighbourhood Command,West Field Command,West Field Command,Civilian,1
+622,2018,Communities & Neighbourhood Command,West Field Command,West Field Command,Detective Sergeant/ Staff Sergeant,2
+623,2018,Communities & Neighbourhood Command,West Field Command,West Field Command,Inspector,0
+624,2018,Communities & Neighbourhood Command,West Field Command,West Field Command,Police Constable,0
+625,2018,Communities & Neighbourhood Command,West Field Command,West Field Command,Sergeant/Detective,1
+626,2018,Communities & Neighbourhood Command,West Field Command,West Field Command,Superintendent & Above,1
+627,2018,Priority Response Command,East Field Command,13 Division,Civilian,7
+628,2018,Priority Response Command,East Field Command,13 Division,Detective Sergeant/ Staff Sergeant,35
+629,2018,Priority Response Command,East Field Command,13 Division,Inspector,1
+630,2018,Priority Response Command,East Field Command,13 Division,Police Constable,112
+631,2018,Priority Response Command,East Field Command,13 Division,Sergeant/Detective,29
+632,2018,Priority Response Command,East Field Command,13 Division,Superintendent & Above,1
+633,2018,Priority Response Command,East Field Command,32 Division,Civilian,14
+634,2018,Priority Response Command,East Field Command,32 Division,Detective Sergeant/ Staff Sergeant,38
+635,2018,Priority Response Command,East Field Command,32 Division,Inspector,1
+636,2018,Priority Response Command,East Field Command,32 Division,Police Constable,153
+637,2018,Priority Response Command,East Field Command,32 Division,Sergeant/Detective,31
+638,2018,Priority Response Command,East Field Command,32 Division,Superintendent & Above,1
+639,2018,Priority Response Command,East Field Command,33 Division,Civilian,7
+640,2018,Priority Response Command,East Field Command,33 Division,Detective Sergeant/ Staff Sergeant,25
+641,2018,Priority Response Command,East Field Command,33 Division,Inspector,1
+642,2018,Priority Response Command,East Field Command,33 Division,Police Constable,100
+643,2018,Priority Response Command,East Field Command,33 Division,Sergeant/Detective,19
+644,2018,Priority Response Command,East Field Command,33 Division,Superintendent & Above,0
+645,2018,Priority Response Command,East Field Command,41 Division,Civilian,13
+646,2018,Priority Response Command,East Field Command,41 Division,Detective Sergeant/ Staff Sergeant,39
+647,2018,Priority Response Command,East Field Command,41 Division,Inspector,1
+648,2018,Priority Response Command,East Field Command,41 Division,Police Constable,161
+649,2018,Priority Response Command,East Field Command,41 Division,Sergeant/Detective,34
+650,2018,Priority Response Command,East Field Command,41 Division,Superintendent & Above,0
+651,2018,Priority Response Command,Priority Response Command,Priority Response Command,Inspector,0
+652,2018,Priority Response Command,Priority Response Command,Priority Response Command,Police Constable,0
+653,2018,Priority Response Command,Priority Response Command,Priority Response Command,Sergeant/Detective,0
+654,2018,Priority Response Command,Priority Response Command,Priority Response Command,Superintendent & Above,1
+655,2019,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Civilian,1
+656,2019,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Detective Sergeant/ Staff Sergeant,1
+657,2019,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Inspector,0
+658,2019,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Police Constable,0
+659,2019,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Sergeant/Detective,0
+660,2019,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Superintendent & Above,1
+661,2019,Communities & Neighbourhood Command,West Field Command,11 Division,Civilian,17
+662,2019,Communities & Neighbourhood Command,West Field Command,11 Division,Detective Sergeant/ Staff Sergeant,33
+663,2019,Communities & Neighbourhood Command,West Field Command,11 Division,Inspector,1
+664,2019,Communities & Neighbourhood Command,West Field Command,11 Division,Police Constable,160
+665,2019,Communities & Neighbourhood Command,West Field Command,11 Division,Sergeant/Detective,27
+666,2019,Communities & Neighbourhood Command,West Field Command,11 Division,Superintendent & Above,1
+667,2019,Communities & Neighbourhood Command,West Field Command,12 Division,Civilian,22
+668,2019,Communities & Neighbourhood Command,West Field Command,12 Division,Detective Sergeant/ Staff Sergeant,31
+669,2019,Communities & Neighbourhood Command,West Field Command,12 Division,Inspector,1
+670,2019,Communities & Neighbourhood Command,West Field Command,12 Division,Police Constable,146
+671,2019,Communities & Neighbourhood Command,West Field Command,12 Division,Sergeant/Detective,24
+672,2019,Communities & Neighbourhood Command,West Field Command,12 Division,Superintendent & Above,0
+673,2019,Communities & Neighbourhood Command,West Field Command,14 Division,Civilian,33
+674,2019,Communities & Neighbourhood Command,West Field Command,14 Division,Detective Sergeant/ Staff Sergeant,39
+675,2019,Communities & Neighbourhood Command,West Field Command,14 Division,Inspector,1
+676,2019,Communities & Neighbourhood Command,West Field Command,14 Division,Police Constable,194
+677,2019,Communities & Neighbourhood Command,West Field Command,14 Division,Sergeant/Detective,31
+678,2019,Communities & Neighbourhood Command,West Field Command,14 Division,Superintendent & Above,1
+679,2019,Communities & Neighbourhood Command,West Field Command,22 Division,Civilian,8
+680,2019,Communities & Neighbourhood Command,West Field Command,22 Division,Detective Sergeant/ Staff Sergeant,27
+681,2019,Communities & Neighbourhood Command,West Field Command,22 Division,Inspector,1
+682,2019,Communities & Neighbourhood Command,West Field Command,22 Division,Police Constable,149
+683,2019,Communities & Neighbourhood Command,West Field Command,22 Division,Sergeant/Detective,21
+684,2019,Communities & Neighbourhood Command,West Field Command,22 Division,Superintendent & Above,0
+685,2019,Communities & Neighbourhood Command,West Field Command,23 Division,Civilian,20
+686,2019,Communities & Neighbourhood Command,West Field Command,23 Division,Detective Sergeant/ Staff Sergeant,25
+687,2019,Communities & Neighbourhood Command,West Field Command,23 Division,Inspector,1
+688,2019,Communities & Neighbourhood Command,West Field Command,23 Division,Police Constable,160
+689,2019,Communities & Neighbourhood Command,West Field Command,23 Division,Sergeant/Detective,20
+690,2019,Communities & Neighbourhood Command,West Field Command,23 Division,Superintendent & Above,1
+691,2019,Communities & Neighbourhood Command,West Field Command,31 Division,Civilian,22
+692,2019,Communities & Neighbourhood Command,West Field Command,31 Division,Detective Sergeant/ Staff Sergeant,34
+693,2019,Communities & Neighbourhood Command,West Field Command,31 Division,Inspector,1
+694,2019,Communities & Neighbourhood Command,West Field Command,31 Division,Police Constable,165
+695,2019,Communities & Neighbourhood Command,West Field Command,31 Division,Sergeant/Detective,27
+696,2019,Communities & Neighbourhood Command,West Field Command,31 Division,Superintendent & Above,0
+697,2019,Communities & Neighbourhood Command,West Field Command,51 Division,Civilian,40
+698,2019,Communities & Neighbourhood Command,West Field Command,51 Division,Detective Sergeant/ Staff Sergeant,38
+699,2019,Communities & Neighbourhood Command,West Field Command,51 Division,Inspector,1
+700,2019,Communities & Neighbourhood Command,West Field Command,51 Division,Police Constable,212
+701,2019,Priority Response Command,East Field Command,41 Division,Civilian,19
+702,2019,Priority Response Command,East Field Command,41 Division,Detective Sergeant/ Staff Sergeant,32
+703,2019,Priority Response Command,East Field Command,41 Division,Inspector,1
+704,2019,Priority Response Command,East Field Command,41 Division,Police Constable,162
+705,2019,Priority Response Command,East Field Command,41 Division,Sergeant/Detective,27
+706,2019,Priority Response Command,East Field Command,41 Division,Superintendent & Above,0
+707,2019,Priority Response Command,East Field Command,42 Division,Civilian,21
+708,2019,Priority Response Command,East Field Command,42 Division,Detective Sergeant/ Staff Sergeant,33
+709,2019,Priority Response Command,East Field Command,42 Division,Inspector,1
+710,2019,Priority Response Command,East Field Command,42 Division,Police Constable,143
+711,2019,Priority Response Command,East Field Command,42 Division,Sergeant/Detective,26
+712,2019,Priority Response Command,East Field Command,42 Division,Superintendent & Above,1
+713,2019,Priority Response Command,East Field Command,43 Division,Civilian,17
+714,2019,Priority Response Command,East Field Command,43 Division,Detective Sergeant/ Staff Sergeant,34
+715,2019,Priority Response Command,East Field Command,43 Division,Inspector,0
+716,2019,Priority Response Command,East Field Command,43 Division,Police Constable,175
+717,2019,Priority Response Command,East Field Command,43 Division,Sergeant/Detective,28
+718,2019,Priority Response Command,East Field Command,43 Division,Superintendent & Above,1
+719,2019,Priority Response Command,East Field Command,53 Division,Civilian,7
+720,2019,Priority Response Command,East Field Command,53 Division,Detective Sergeant/ Staff Sergeant,33
+721,2019,Priority Response Command,East Field Command,53 Division,Inspector,1
+722,2019,Priority Response Command,East Field Command,53 Division,Police Constable,124
+723,2019,Priority Response Command,East Field Command,53 Division,Sergeant/Detective,27
+724,2019,Priority Response Command,East Field Command,53 Division,Superintendent & Above,0
+725,2019,Priority Response Command,East Field Command,55 Division,Civilian,21
+726,2019,Priority Response Command,East Field Command,55 Division,Detective Sergeant/ Staff Sergeant,48
+727,2019,Priority Response Command,East Field Command,55 Division,Inspector,1
+728,2019,Priority Response Command,East Field Command,55 Division,Police Constable,248
+729,2019,Priority Response Command,East Field Command,55 Division,Sergeant/Detective,41
+730,2019,Priority Response Command,East Field Command,55 Division,Superintendent & Above,1
+731,2019,Priority Response Command,East Field Command,Communication Services,Civilian,300
+732,2019,Priority Response Command,East Field Command,Communication Services,Detective Sergeant/ Staff Sergeant,9
+733,2019,Priority Response Command,East Field Command,Communication Services,Inspector,0
+734,2019,Priority Response Command,East Field Command,Communication Services,Police Constable,34
+735,2019,Priority Response Command,East Field Command,Communication Services,Sergeant/Detective,8
+736,2019,Priority Response Command,East Field Command,Communication Services,Superintendent & Above,0
+737,2019,Priority Response Command,East Field Command,Court Services,Civilian,578
+738,2019,Priority Response Command,East Field Command,Court Services,Detective Sergeant/ Staff Sergeant,6
+739,2019,Priority Response Command,East Field Command,Court Services,Inspector,1
+740,2019,Priority Response Command,East Field Command,Court Services,Police Constable,0
+741,2019,Priority Response Command,East Field Command,Court Services,Sergeant/Detective,4
+742,2019,Priority Response Command,East Field Command,Court Services,Superintendent & Above,1
+743,2019,Priority Response Command,East Field Command,East Field Command,Civilian,1
+744,2019,Priority Response Command,East Field Command,East Field Command,Detective Sergeant/ Staff Sergeant,2
+745,2019,Priority Response Command,East Field Command,East Field Command,Inspector,0
+746,2019,Priority Response Command,East Field Command,East Field Command,Police Constable,1
+747,2019,Priority Response Command,East Field Command,East Field Command,Sergeant/Detective,1
+748,2019,Priority Response Command,East Field Command,East Field Command,Superintendent & Above,1
+749,2019,Priority Response Command,East Field Command,Toronto Police Operations,Civilian,4
+750,2019,Priority Response Command,East Field Command,Toronto Police Operations,Detective Sergeant/ Staff Sergeant,23
+751,2018,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Inspector,0
+752,2018,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Police Constable,0
+753,2018,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Sergeant/Detective,0
+754,2018,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Superintendent & Above,1
+755,2018,Communities & Neighbourhood Command,West Field Command,11 Division,Civilian,15
+756,2018,Communities & Neighbourhood Command,West Field Command,11 Division,Detective Sergeant/ Staff Sergeant,41
+757,2018,Communities & Neighbourhood Command,West Field Command,11 Division,Inspector,1
+758,2018,Communities & Neighbourhood Command,West Field Command,11 Division,Police Constable,150
+759,2018,Communities & Neighbourhood Command,West Field Command,11 Division,Sergeant/Detective,34
+760,2018,Communities & Neighbourhood Command,West Field Command,11 Division,Superintendent & Above,1
+761,2018,Communities & Neighbourhood Command,West Field Command,12 Division,Civilian,10
+762,2018,Communities & Neighbourhood Command,West Field Command,12 Division,Detective Sergeant/ Staff Sergeant,31
+763,2018,Communities & Neighbourhood Command,West Field Command,12 Division,Inspector,1
+764,2018,Communities & Neighbourhood Command,West Field Command,12 Division,Police Constable,141
+765,2018,Communities & Neighbourhood Command,West Field Command,12 Division,Sergeant/Detective,24
+766,2018,Communities & Neighbourhood Command,West Field Command,12 Division,Superintendent & Above,0
+767,2018,Communities & Neighbourhood Command,West Field Command,14 Division,Civilian,13
+768,2018,Communities & Neighbourhood Command,West Field Command,14 Division,Detective Sergeant/ Staff Sergeant,44
+769,2018,Communities & Neighbourhood Command,West Field Command,14 Division,Inspector,1
+770,2018,Communities & Neighbourhood Command,West Field Command,14 Division,Police Constable,180
+771,2018,Communities & Neighbourhood Command,West Field Command,14 Division,Sergeant/Detective,36
+772,2018,Communities & Neighbourhood Command,West Field Command,14 Division,Superintendent & Above,1
+773,2018,Communities & Neighbourhood Command,West Field Command,22 Division,Civilian,9
+774,2018,Communities & Neighbourhood Command,West Field Command,22 Division,Detective Sergeant/ Staff Sergeant,28
+775,2018,Communities & Neighbourhood Command,West Field Command,22 Division,Inspector,1
+776,2018,Communities & Neighbourhood Command,West Field Command,22 Division,Police Constable,143
+777,2018,Communities & Neighbourhood Command,West Field Command,22 Division,Sergeant/Detective,24
+778,2018,Communities & Neighbourhood Command,West Field Command,22 Division,Superintendent & Above,0
+779,2018,Communities & Neighbourhood Command,West Field Command,23 Division,Civilian,10
+780,2018,Communities & Neighbourhood Command,West Field Command,23 Division,Detective Sergeant/ Staff Sergeant,32
+781,2018,Communities & Neighbourhood Command,West Field Command,23 Division,Inspector,1
+782,2018,Communities & Neighbourhood Command,West Field Command,23 Division,Police Constable,154
+783,2018,Communities & Neighbourhood Command,West Field Command,23 Division,Sergeant/Detective,27
+784,2018,Communities & Neighbourhood Command,West Field Command,23 Division,Superintendent & Above,1
+785,2018,Communities & Neighbourhood Command,West Field Command,31 Division,Civilian,13
+786,2018,Communities & Neighbourhood Command,West Field Command,31 Division,Detective Sergeant/ Staff Sergeant,35
+787,2018,Communities & Neighbourhood Command,West Field Command,31 Division,Inspector,1
+788,2018,Communities & Neighbourhood Command,West Field Command,31 Division,Police Constable,160
+789,2018,Communities & Neighbourhood Command,West Field Command,31 Division,Sergeant/Detective,30
+790,2018,Communities & Neighbourhood Command,West Field Command,31 Division,Superintendent & Above,0
+791,2018,Communities & Neighbourhood Command,West Field Command,51 Division,Civilian,24
+792,2018,Communities & Neighbourhood Command,West Field Command,51 Division,Detective Sergeant/ Staff Sergeant,45
+793,2018,Communities & Neighbourhood Command,West Field Command,51 Division,Inspector,1
+794,2018,Communities & Neighbourhood Command,West Field Command,51 Division,Police Constable,176
+795,2018,Communities & Neighbourhood Command,West Field Command,51 Division,Sergeant/Detective,38
+796,2018,Communities & Neighbourhood Command,West Field Command,51 Division,Superintendent & Above,1
+797,2018,Communities & Neighbourhood Command,West Field Command,52 Division,Civilian,13
+798,2018,Communities & Neighbourhood Command,West Field Command,52 Division,Detective Sergeant/ Staff Sergeant,47
+799,2018,Communities & Neighbourhood Command,West Field Command,52 Division,Inspector,0
+800,2018,Communities & Neighbourhood Command,West Field Command,52 Division,Police Constable,157
+801,2020,Communities & Neighbourhood Command,West Field Command,31 Division,Sergeant/Detective,30
+802,2020,Communities & Neighbourhood Command,West Field Command,31 Division,Superintendent & Above,0
+803,2020,Communities & Neighbourhood Command,West Field Command,51 Division,Civilian,38
+804,2020,Communities & Neighbourhood Command,West Field Command,51 Division,Detective Sergeant/ Staff Sergeant,8
+805,2020,Communities & Neighbourhood Command,West Field Command,51 Division,Inspector,1
+806,2020,Communities & Neighbourhood Command,West Field Command,51 Division,Police Constable,206
+807,2020,Communities & Neighbourhood Command,West Field Command,51 Division,Sergeant/Detective,35
+808,2020,Communities & Neighbourhood Command,West Field Command,51 Division,Superintendent & Above,1
+809,2020,Communities & Neighbourhood Command,West Field Command,52 Division,Civilian,36
+810,2020,Communities & Neighbourhood Command,West Field Command,52 Division,Detective Sergeant/ Staff Sergeant,6
+811,2020,Communities & Neighbourhood Command,West Field Command,52 Division,Inspector,0
+812,2020,Communities & Neighbourhood Command,West Field Command,52 Division,Police Constable,175
+813,2020,Communities & Neighbourhood Command,West Field Command,52 Division,Sergeant/Detective,35
+814,2020,Communities & Neighbourhood Command,West Field Command,52 Division,Superintendent & Above,1
+815,2020,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Civilian,5
+816,2019,Priority Response Command,East Field Command,Toronto Police Operations,Inspector,7
+817,2020,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Detective Sergeant/ Staff Sergeant,3
+818,2020,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Inspector,1
+819,2020,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Police Constable,21
+820,2020,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Sergeant/Detective,8
+821,2020,Communities & Neighbourhood Command,West Field Command,Community Partnership and Engagement,Superintendent & Above,1
+822,2020,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Civilian,421
+823,2020,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Detective Sergeant/ Staff Sergeant,1
+824,2020,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Inspector,1
+825,2020,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Police Constable,1
+826,2020,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Sergeant/Detective,2
+827,2020,Communities & Neighbourhood Command,West Field Command,Parking Enforcement Unit,Superintendent & Above,0
+828,2020,Communities & Neighbourhood Command,West Field Command,Public Safety Response,Civilian,0
+829,2020,Communities & Neighbourhood Command,West Field Command,Public Safety Response,Detective Sergeant/ Staff Sergeant,2
+830,2020,Communities & Neighbourhood Command,West Field Command,Public Safety Response,Inspector,0
+831,2020,Communities & Neighbourhood Command,West Field Command,Public Safety Response,Police Constable,63
+832,2020,Communities & Neighbourhood Command,West Field Command,Public Safety Response,Sergeant/Detective,8
+833,2020,Communities & Neighbourhood Command,West Field Command,Public Safety Response,Superintendent & Above,1
+834,2020,Communities & Neighbourhood Command,West Field Command,Traffic Services,Civilian,17
+835,2020,Communities & Neighbourhood Command,West Field Command,Traffic Services,Detective Sergeant/ Staff Sergeant,11
+836,2020,Communities & Neighbourhood Command,West Field Command,Traffic Services,Inspector,1
+837,2020,Communities & Neighbourhood Command,West Field Command,Traffic Services,Police Constable,210
+838,2020,Communities & Neighbourhood Command,West Field Command,Traffic Services,Sergeant/Detective,35
+839,2020,Communities & Neighbourhood Command,West Field Command,Traffic Services,Superintendent & Above,1
+840,2020,Communities & Neighbourhood Command,West Field Command,West Field Command,Civilian,1
+841,2020,Communities & Neighbourhood Command,West Field Command,West Field Command,Detective Sergeant/ Staff Sergeant,0
+842,2020,Priority Response Command,East Field Command,32 Division,Civilian,23
+843,2020,Communities & Neighbourhood Command,West Field Command,West Field Command,Inspector,0
+844,2020,Communities & Neighbourhood Command,West Field Command,West Field Command,Police Constable,0
+845,2020,Communities & Neighbourhood Command,West Field Command,West Field Command,Sergeant/Detective,1
+846,2020,Communities & Neighbourhood Command,West Field Command,West Field Command,Superintendent & Above,0
+847,2020,Priority Response Command,East Field Command,13 Division,Civilian,7
+848,2020,Priority Response Command,East Field Command,13 Division,Detective Sergeant/ Staff Sergeant,6
+849,2020,Priority Response Command,East Field Command,13 Division,Inspector,1
+850,2020,Priority Response Command,East Field Command,13 Division,Police Constable,117
+851,2020,Priority Response Command,East Field Command,13 Division,Sergeant/Detective,25
+852,2021,Community Safety Command,East Field Command,55 Division,Inspector,1
+853,2020,Priority Response Command,East Field Command,13 Division,Superintendent & Above,1
+854,2020,Priority Response Command,East Field Command,32 Division,Detective Sergeant/ Staff Sergeant,8
+855,2019,Priority Response Command,East Field Command,Toronto Police Operations,Police Constable,70
+856,2021,Community Safety Command,East Field Command,55 Division,Police Constable,248
+857,2020,Priority Response Command,East Field Command,32 Division,Inspector,1
+858,2019,Priority Response Command,East Field Command,Toronto Police Operations,Sergeant/Detective,17
+859,2019,Priority Response Command,East Field Command,Toronto Police Operations,Superintendent & Above,1
+860,2021,Community Safety Command,East Field Command,55 Division,Sergeant/Detective,32
+861,2020,Priority Response Command,East Field Command,32 Division,Police Constable,161
+862,2019,Priority Response Command,Priority Response Command,Priority Response Command,Civilian,1
+863,2021,Community Safety Command,East Field Command,55 Division,Superintendent & Above,1
+864,2020,Priority Response Command,East Field Command,32 Division,Sergeant/Detective,33
+865,2019,Priority Response Command,Priority Response Command,Priority Response Command,Detective Sergeant/ Staff Sergeant,1
+866,2021,Community Safety Command,Field Services,Communication Services,Civilian,336
+867,2020,Priority Response Command,East Field Command,32 Division,Superintendent & Above,1
+868,2019,Priority Response Command,Priority Response Command,Priority Response Command,Inspector,0
+869,2021,Community Safety Command,Field Services,Communication Services,Detective Sergeant/ Staff Sergeant,1
+870,2020,Priority Response Command,East Field Command,33 Division,Civilian,8
+871,2019,Priority Response Command,Priority Response Command,Priority Response Command,Police Constable,0
+872,2021,Community Safety Command,Field Services,Communication Services,Inspector,0
+873,2020,Priority Response Command,East Field Command,33 Division,Detective Sergeant/ Staff Sergeant,5
+874,2019,Priority Response Command,Priority Response Command,Priority Response Command,Sergeant/Detective,0
+875,2021,Community Safety Command,Field Services,Communication Services,Police Constable,34
+876,2020,Priority Response Command,East Field Command,33 Division,Inspector,1
+877,2019,Priority Response Command,Priority Response Command,Priority Response Command,Superintendent & Above,1
+878,2021,Community Safety Command,Field Services,Communication Services,Sergeant/Detective,10
+879,2020,Priority Response Command,East Field Command,33 Division,Police Constable,123
+880,2020,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Civilian,1
+881,2021,Community Safety Command,Field Services,Communication Services,Superintendent & Above,0
+882,2020,Priority Response Command,East Field Command,33 Division,Sergeant/Detective,16
+883,2020,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Detective Sergeant/ Staff Sergeant,1
+884,2021,Community Safety Command,East Field Command,East Field Command,Civilian,1
+885,2020,Priority Response Command,East Field Command,33 Division,Superintendent & Above,0
+886,2020,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Inspector,0
+887,2021,Community Safety Command,East Field Command,East Field Command,Detective Sergeant/ Staff Sergeant,1
+888,2020,Priority Response Command,East Field Command,41 Division,Civilian,23
+889,2020,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Police Constable,0
+890,2021,Community Safety Command,East Field Command,East Field Command,Inspector,0
+891,2020,Priority Response Command,East Field Command,41 Division,Detective Sergeant/ Staff Sergeant,6
+892,2020,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Sergeant/Detective,0
+893,2021,Community Safety Command,East Field Command,East Field Command,Police Constable,1
+894,2021,Community Safety Command,East Field Command,East Field Command,Sergeant/Detective,1
+895,2021,Community Safety Command,East Field Command,East Field Command,Superintendent & Above,1
+896,2021,Community Safety Command,Field Services,Toronto Police Operations,Civilian,2
+897,2021,Community Safety Command,Field Services,Toronto Police Operations,Detective Sergeant/ Staff Sergeant,9
+898,2021,Community Safety Command,Field Services,Toronto Police Operations,Inspector,2
+899,2021,Community Safety Command,Field Services,Toronto Police Operations,Police Constable,13
+900,2021,Community Safety Command,Field Services,Toronto Police Operations,Sergeant/Detective,6
+901,2021,Community Safety Command,Field Services,Toronto Police Operations,Superintendent & Above,1
+902,2021,Community Safety Command,Field Services,Field Services,Civilian,1
+903,2021,Community Safety Command,Field Services,Field Services,Detective Sergeant/ Staff Sergeant,1
+904,2021,Community Safety Command,Field Services,Field Services,Inspector,0
+905,2021,Community Safety Command,Field Services,Field Services,Police Constable,0
+906,2021,Community Safety Command,Field Services,Field Services,Sergeant/Detective,0
+907,2021,Community Safety Command,Field Services,Field Services,Superintendent & Above,1
+908,2022,Community Safety Command,West Field Command,11 Division,Superintendent & Above,1
+909,2022,Community Safety Command,West Field Command,11 Division,Inspector,1
+910,2022,Community Safety Command,West Field Command,11 Division,Detective Sergeant/ Staff Sergeant,6
+911,2022,Community Safety Command,West Field Command,11 Division,Sergeant/Detective,20
+912,2022,Community Safety Command,West Field Command,11 Division,Police Constable,135
+913,2022,Community Safety Command,West Field Command,11 Division,Civilian,15
+914,2022,Community Safety Command,West Field Command,12 Division,Superintendent & Above,0
+915,2022,Community Safety Command,West Field Command,12 Division,Inspector,1
+916,2022,Community Safety Command,West Field Command,12 Division,Detective Sergeant/ Staff Sergeant,6
+917,2022,Community Safety Command,West Field Command,12 Division,Sergeant/Detective,24
+918,2022,Community Safety Command,West Field Command,12 Division,Police Constable,135
+919,2022,Community Safety Command,West Field Command,12 Division,Civilian,13
+920,2022,Community Safety Command,East Field Command,13 Division,Superintendent & Above,1
+921,2022,Community Safety Command,East Field Command,13 Division,Inspector,1
+922,2022,Community Safety Command,East Field Command,13 Division,Detective Sergeant/ Staff Sergeant,4
+923,2022,Community Safety Command,East Field Command,13 Division,Sergeant/Detective,25
+924,2022,Community Safety Command,East Field Command,13 Division,Police Constable,105
+925,2022,Community Safety Command,East Field Command,13 Division,Civilian,8
+926,2022,Community Safety Command,West Field Command,14 Division,Superintendent & Above,1
+927,2022,Community Safety Command,West Field Command,14 Division,Inspector,1
+928,2022,Community Safety Command,West Field Command,14 Division,Detective Sergeant/ Staff Sergeant,6
+929,2022,Community Safety Command,West Field Command,14 Division,Sergeant/Detective,31
+930,2020,Priority Response Command,East Field Command,41 Division,Inspector,1
+931,2020,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Communities & Neighbourhood Command,Superintendent & Above,1
+932,2020,Priority Response Command,East Field Command,41 Division,Police Constable,156
+933,2020,Priority Response Command,East Field Command,41 Division,Sergeant/Detective,28
+934,2020,Priority Response Command,East Field Command,41 Division,Superintendent & Above,1
+935,2020,Priority Response Command,East Field Command,42 Division,Civilian,21
+936,2020,Communities & Neighbourhood Command,West Field Command,11 Division,Civilian,13
+937,2020,Priority Response Command,East Field Command,42 Division,Detective Sergeant/ Staff Sergeant,6
+938,2020,Communities & Neighbourhood Command,West Field Command,11 Division,Detective Sergeant/ Staff Sergeant,6
+939,2020,Priority Response Command,East Field Command,42 Division,Inspector,1
+940,2020,Communities & Neighbourhood Command,West Field Command,11 Division,Inspector,1
+941,2020,Priority Response Command,East Field Command,42 Division,Police Constable,140
+942,2020,Communities & Neighbourhood Command,West Field Command,11 Division,Police Constable,167
+943,2020,Priority Response Command,East Field Command,42 Division,Sergeant/Detective,34
+944,2020,Communities & Neighbourhood Command,West Field Command,11 Division,Sergeant/Detective,29
+945,2020,Priority Response Command,East Field Command,42 Division,Superintendent & Above,0
+946,2020,Communities & Neighbourhood Command,West Field Command,11 Division,Superintendent & Above,1
+947,2020,Priority Response Command,East Field Command,43 Division,Civilian,24
+948,2020,Communities & Neighbourhood Command,West Field Command,12 Division,Civilian,22
+949,2020,Priority Response Command,East Field Command,43 Division,Detective Sergeant/ Staff Sergeant,6
+950,2020,Communities & Neighbourhood Command,West Field Command,12 Division,Detective Sergeant/ Staff Sergeant,7
+951,2020,Priority Response Command,East Field Command,43 Division,Inspector,1
+952,2020,Communities & Neighbourhood Command,West Field Command,12 Division,Inspector,1
+953,2020,Priority Response Command,East Field Command,43 Division,Police Constable,186
+954,2020,Communities & Neighbourhood Command,West Field Command,12 Division,Police Constable,141
+955,2020,Priority Response Command,East Field Command,43 Division,Sergeant/Detective,30
+956,2020,Communities & Neighbourhood Command,West Field Command,12 Division,Sergeant/Detective,32
+957,2020,Priority Response Command,East Field Command,43 Division,Superintendent & Above,1
+958,2020,Communities & Neighbourhood Command,West Field Command,12 Division,Superintendent & Above,0
+959,2020,Priority Response Command,East Field Command,53 Division,Civilian,7
+960,2020,Communities & Neighbourhood Command,West Field Command,14 Division,Civilian,33
+961,2020,Priority Response Command,East Field Command,53 Division,Detective Sergeant/ Staff Sergeant,6
+962,2020,Communities & Neighbourhood Command,West Field Command,14 Division,Detective Sergeant/ Staff Sergeant,7
+963,2020,Priority Response Command,East Field Command,53 Division,Inspector,1
+964,2020,Communities & Neighbourhood Command,West Field Command,14 Division,Inspector,1
+965,2020,Priority Response Command,East Field Command,53 Division,Police Constable,137
+966,2020,Communities & Neighbourhood Command,West Field Command,14 Division,Police Constable,206
+967,2020,Priority Response Command,East Field Command,53 Division,Sergeant/Detective,27
+968,2020,Communities & Neighbourhood Command,West Field Command,14 Division,Sergeant/Detective,32
+969,2020,Priority Response Command,East Field Command,53 Division,Superintendent & Above,0
+970,2020,Communities & Neighbourhood Command,West Field Command,14 Division,Superintendent & Above,1
+971,2020,Priority Response Command,East Field Command,55 Division,Civilian,19
+972,2020,Communities & Neighbourhood Command,West Field Command,22 Division,Civilian,9
+973,2020,Priority Response Command,East Field Command,55 Division,Detective Sergeant/ Staff Sergeant,6
+974,2020,Communities & Neighbourhood Command,West Field Command,22 Division,Detective Sergeant/ Staff Sergeant,6
+975,2020,Priority Response Command,East Field Command,55 Division,Inspector,1
+976,2020,Communities & Neighbourhood Command,West Field Command,22 Division,Inspector,1
+977,2020,Priority Response Command,East Field Command,55 Division,Police Constable,253
+978,2020,Communities & Neighbourhood Command,West Field Command,22 Division,Police Constable,156
+979,2020,Priority Response Command,East Field Command,55 Division,Sergeant/Detective,34
+980,2020,Communities & Neighbourhood Command,West Field Command,22 Division,Sergeant/Detective,22
+981,2020,Priority Response Command,East Field Command,55 Division,Superintendent & Above,1
+982,2020,Communities & Neighbourhood Command,West Field Command,22 Division,Superintendent & Above,0
+983,2020,Priority Response Command,East Field Command,Communication Services,Civilian,331
+984,2020,Communities & Neighbourhood Command,West Field Command,23 Division,Civilian,21
+985,2020,Priority Response Command,East Field Command,Communication Services,Detective Sergeant/ Staff Sergeant,1
+986,2020,Communities & Neighbourhood Command,West Field Command,23 Division,Detective Sergeant/ Staff Sergeant,5
+987,2020,Priority Response Command,East Field Command,Communication Services,Inspector,0
+988,2020,Communities & Neighbourhood Command,West Field Command,23 Division,Inspector,1
+989,2020,Priority Response Command,East Field Command,Communication Services,Police Constable,34
+990,2020,Communities & Neighbourhood Command,West Field Command,23 Division,Police Constable,160
+991,2020,Communities & Neighbourhood Command,West Field Command,23 Division,Sergeant/Detective,24
+992,2020,Communities & Neighbourhood Command,West Field Command,23 Division,Superintendent & Above,1
+993,2020,Communities & Neighbourhood Command,West Field Command,31 Division,Civilian,23
+994,2020,Communities & Neighbourhood Command,West Field Command,31 Division,Detective Sergeant/ Staff Sergeant,6
+995,2020,Communities & Neighbourhood Command,West Field Command,31 Division,Inspector,1
+996,2020,Communities & Neighbourhood Command,West Field Command,31 Division,Police Constable,163
+997,2021,Community Safety Command,West Field Command,West Field Command,Civilian,1
+998,2021,Community Safety Command,West Field Command,West Field Command,Detective Sergeant/ Staff Sergeant,1
+999,2020,Priority Response Command,East Field Command,Communication Services,Sergeant/Detective,10
+1000,2021,Community Safety Command,West Field Command,West Field Command,Inspector,0
+1001,2021,Community Safety Command,West Field Command,West Field Command,Police Constable,0
+1002,2020,Priority Response Command,East Field Command,Communication Services,Superintendent & Above,0
+1003,2021,Community Safety Command,West Field Command,West Field Command,Sergeant/Detective,0
+1004,2020,Priority Response Command,East Field Command,Court Services,Civilian,633
+1005,2020,Priority Response Command,East Field Command,Court Services,Detective Sergeant/ Staff Sergeant,1
+1006,2021,Community Safety Command,West Field Command,West Field Command,Superintendent & Above,1
+1007,2021,Community Safety Command,East Field Command,13 Division,Civilian,12
+1008,2021,Community Safety Command,East Field Command,13 Division,Detective Sergeant/ Staff Sergeant,6
+1009,2021,Community Safety Command,East Field Command,13 Division,Inspector,2
+1010,2021,Community Safety Command,East Field Command,13 Division,Police Constable,116
+1011,2021,Community Safety Command,East Field Command,13 Division,Sergeant/Detective,23
+1012,2021,Community Safety Command,East Field Command,13 Division,Superintendent & Above,0
+1013,2021,Community Safety Command,East Field Command,32 Division,Civilian,21
+1014,2021,Community Safety Command,East Field Command,32 Division,Detective Sergeant/ Staff Sergeant,6
+1015,2021,Community Safety Command,East Field Command,32 Division,Inspector,1
+1016,2021,Community Safety Command,East Field Command,32 Division,Police Constable,159
+1017,2021,Community Safety Command,East Field Command,32 Division,Sergeant/Detective,32
+1018,2021,Community Safety Command,East Field Command,32 Division,Superintendent & Above,1
+1019,2021,Community Safety Command,East Field Command,33 Division,Civilian,8
+1020,2021,Community Safety Command,East Field Command,33 Division,Detective Sergeant/ Staff Sergeant,5
+1021,2021,Community Safety Command,East Field Command,33 Division,Inspector,1
+1022,2021,Community Safety Command,East Field Command,33 Division,Police Constable,123
+1023,2021,Community Safety Command,East Field Command,33 Division,Sergeant/Detective,14
+1024,2021,Community Safety Command,East Field Command,33 Division,Superintendent & Above,0
+1025,2021,Community Safety Command,East Field Command,41 Division,Civilian,20
+1026,2021,Community Safety Command,East Field Command,41 Division,Detective Sergeant/ Staff Sergeant,6
+1027,2021,Community Safety Command,East Field Command,41 Division,Inspector,1
+1028,2021,Community Safety Command,East Field Command,41 Division,Police Constable,165
+1029,2021,Community Safety Command,East Field Command,41 Division,Sergeant/Detective,29
+1030,2021,Community Safety Command,East Field Command,41 Division,Superintendent & Above,1
+1031,2021,Community Safety Command,East Field Command,42 Division,Civilian,20
+1032,2021,Community Safety Command,East Field Command,42 Division,Detective Sergeant/ Staff Sergeant,7
+1033,2021,Community Safety Command,East Field Command,42 Division,Inspector,1
+1034,2021,Community Safety Command,East Field Command,42 Division,Police Constable,150
+1035,2021,Community Safety Command,East Field Command,42 Division,Sergeant/Detective,27
+1036,2021,Community Safety Command,East Field Command,42 Division,Superintendent & Above,1
+1037,2021,Community Safety Command,East Field Command,43 Division,Civilian,28
+1038,2021,Community Safety Command,East Field Command,43 Division,Detective Sergeant/ Staff Sergeant,5
+1039,2021,Community Safety Command,East Field Command,43 Division,Inspector,1
+1040,2021,Community Safety Command,East Field Command,43 Division,Police Constable,186
+1041,2021,Community Safety Command,East Field Command,43 Division,Sergeant/Detective,28
+1042,2021,Community Safety Command,East Field Command,43 Division,Superintendent & Above,1
+1043,2021,Community Safety Command,East Field Command,53 Division,Civilian,10
+1044,2021,Community Safety Command,East Field Command,53 Division,Detective Sergeant/ Staff Sergeant,5
+1045,2021,Community Safety Command,East Field Command,53 Division,Inspector,1
+1046,2021,Community Safety Command,East Field Command,53 Division,Police Constable,137
+1047,2021,Community Safety Command,East Field Command,53 Division,Sergeant/Detective,25
+1048,2021,Community Safety Command,East Field Command,53 Division,Superintendent & Above,0
+1049,2021,Community Safety Command,East Field Command,55 Division,Civilian,19
+1050,2021,Community Safety Command,East Field Command,55 Division,Detective Sergeant/ Staff Sergeant,6
+1051,2020,Priority Response Command,East Field Command,Court Services,Inspector,0
+1052,2020,Priority Response Command,East Field Command,Court Services,Police Constable,0
+1053,2020,Priority Response Command,East Field Command,Court Services,Sergeant/Detective,3
+1054,2020,Priority Response Command,East Field Command,Court Services,Superintendent & Above,1
+1055,2020,Priority Response Command,East Field Command,East Field Command,Civilian,1
+1056,2020,Priority Response Command,East Field Command,East Field Command,Detective Sergeant/ Staff Sergeant,1
+1057,2020,Priority Response Command,East Field Command,East Field Command,Inspector,0
+1058,2020,Priority Response Command,East Field Command,East Field Command,Police Constable,2
+1059,2020,Priority Response Command,East Field Command,East Field Command,Sergeant/Detective,3
+1060,2020,Priority Response Command,East Field Command,East Field Command,Superintendent & Above,0
+1061,2020,Priority Response Command,East Field Command,Toronto Police Operations,Civilian,2
+1062,2020,Priority Response Command,East Field Command,Toronto Police Operations,Detective Sergeant/ Staff Sergeant,6
+1063,2020,Priority Response Command,East Field Command,Toronto Police Operations,Inspector,6
+1064,2020,Priority Response Command,East Field Command,Toronto Police Operations,Police Constable,16
+1065,2020,Priority Response Command,East Field Command,Toronto Police Operations,Sergeant/Detective,5
+1066,2020,Priority Response Command,East Field Command,Toronto Police Operations,Superintendent & Above,1
+1067,2020,Priority Response Command,Priority Response Command,Priority Response Command,Civilian,1
+1068,2020,Priority Response Command,Priority Response Command,Priority Response Command,Detective Sergeant/ Staff Sergeant,1
+1069,2020,Priority Response Command,Priority Response Command,Priority Response Command,Inspector,0
+1070,2020,Priority Response Command,Priority Response Command,Priority Response Command,Police Constable,0
+1071,2020,Priority Response Command,Priority Response Command,Priority Response Command,Sergeant/Detective,0
+1072,2020,Priority Response Command,Priority Response Command,Priority Response Command,Superintendent & Above,1
+1073,2021,Community Safety Command,Community Safety Command,Community Safety Command,Civilian,1
+1074,2021,Community Safety Command,Community Safety Command,Community Safety Command,Detective Sergeant/ Staff Sergeant,0
+1075,2021,Community Safety Command,Community Safety Command,Community Safety Command,Inspector,0
+1076,2021,Community Safety Command,Community Safety Command,Community Safety Command,Police Constable,0
+1077,2021,Community Safety Command,Community Safety Command,Community Safety Command,Sergeant/Detective,0
+1078,2021,Community Safety Command,Community Safety Command,Community Safety Command,Superintendent & Above,2
+1079,2021,Community Safety Command,West Field Command,11 Division,Civilian,19
+1080,2021,Community Safety Command,West Field Command,11 Division,Detective Sergeant/ Staff Sergeant,6
+1081,2021,Community Safety Command,West Field Command,11 Division,Inspector,2
+1082,2021,Community Safety Command,West Field Command,11 Division,Police Constable,170
+1083,2021,Community Safety Command,West Field Command,11 Division,Sergeant/Detective,23
+1084,2021,Community Safety Command,West Field Command,11 Division,Superintendent & Above,0
+1085,2021,Community Safety Command,West Field Command,12 Division,Civilian,17
+1086,2021,Community Safety Command,West Field Command,12 Division,Detective Sergeant/ Staff Sergeant,7
+1087,2021,Community Safety Command,West Field Command,12 Division,Inspector,1
+1088,2021,Community Safety Command,West Field Command,12 Division,Police Constable,133
+1089,2021,Community Safety Command,West Field Command,12 Division,Sergeant/Detective,26
+1090,2021,Community Safety Command,West Field Command,12 Division,Superintendent & Above,0
+1091,2021,Community Safety Command,West Field Command,14 Division,Civilian,31
+1092,2021,Community Safety Command,West Field Command,14 Division,Detective Sergeant/ Staff Sergeant,6
+1093,2021,Community Safety Command,West Field Command,14 Division,Inspector,1
+1094,2021,Community Safety Command,West Field Command,14 Division,Police Constable,209
+1095,2021,Community Safety Command,West Field Command,14 Division,Sergeant/Detective,30
+1096,2021,Community Safety Command,West Field Command,14 Division,Superintendent & Above,1
+1097,2021,Community Safety Command,West Field Command,22 Division,Civilian,8
+1098,2021,Community Safety Command,West Field Command,22 Division,Detective Sergeant/ Staff Sergeant,5
+1099,2021,Community Safety Command,West Field Command,22 Division,Inspector,1
+1100,2021,Community Safety Command,West Field Command,22 Division,Police Constable,155
+1101,2022,Community Safety Command,West Field Command,14 Division,Police Constable,211
+1102,2022,Community Safety Command,West Field Command,14 Division,Civilian,35
+1103,2022,Community Safety Command,West Field Command,22 Division,Superintendent & Above,0
+1104,2022,Community Safety Command,West Field Command,22 Division,Inspector,1
+1105,2022,Community Safety Command,West Field Command,22 Division,Detective Sergeant/ Staff Sergeant,8
+1106,2022,Community Safety Command,West Field Command,22 Division,Sergeant/Detective,28
+1107,2022,Community Safety Command,West Field Command,22 Division,Police Constable,168
+1108,2022,Community Safety Command,West Field Command,22 Division,Civilian,10
+1109,2022,Community Safety Command,West Field Command,23 Division,Superintendent & Above,1
+1110,2022,Community Safety Command,West Field Command,23 Division,Inspector,1
+1111,2022,Community Safety Command,West Field Command,23 Division,Detective Sergeant/ Staff Sergeant,5
+1112,2022,Community Safety Command,West Field Command,23 Division,Sergeant/Detective,26
+1113,2022,Community Safety Command,West Field Command,23 Division,Police Constable,159
+1114,2022,Community Safety Command,West Field Command,23 Division,Civilian,25
+1115,2022,Community Safety Command,West Field Command,31 Division,Superintendent & Above,1
+1116,2022,Community Safety Command,West Field Command,31 Division,Inspector,1
+1117,2022,Community Safety Command,West Field Command,31 Division,Detective Sergeant/ Staff Sergeant,5
+1118,2022,Community Safety Command,West Field Command,31 Division,Sergeant/Detective,28
+1119,2022,Community Safety Command,West Field Command,31 Division,Police Constable,148
+1120,2022,Community Safety Command,West Field Command,31 Division,Civilian,19
+1121,2022,Community Safety Command,East Field Command,32 Division,Superintendent & Above,1
+1122,2022,Community Safety Command,East Field Command,32 Division,Inspector,1
+1123,2022,Community Safety Command,East Field Command,32 Division,Detective Sergeant/ Staff Sergeant,7
+1124,2022,Community Safety Command,East Field Command,32 Division,Sergeant/Detective,25
+1125,2022,Community Safety Command,East Field Command,32 Division,Police Constable,155
+1126,2022,Community Safety Command,East Field Command,32 Division,Civilian,17
+1127,2022,Community Safety Command,East Field Command,33 Division,Superintendent & Above,1
+1128,2022,Community Safety Command,East Field Command,33 Division,Inspector,1
+1129,2022,Community Safety Command,East Field Command,33 Division,Detective Sergeant/ Staff Sergeant,4
+1130,2022,Community Safety Command,East Field Command,33 Division,Sergeant/Detective,15
+1131,2022,Community Safety Command,East Field Command,33 Division,Police Constable,114
+1132,2022,Community Safety Command,East Field Command,33 Division,Civilian,8
+1133,2022,Community Safety Command,East Field Command,41 Division,Superintendent & Above,1
+1134,2022,Community Safety Command,East Field Command,41 Division,Inspector,1
+1135,2022,Community Safety Command,East Field Command,41 Division,Detective Sergeant/ Staff Sergeant,4
+1136,2022,Community Safety Command,East Field Command,41 Division,Sergeant/Detective,25
+1137,2022,Community Safety Command,East Field Command,41 Division,Police Constable,153
+1138,2022,Community Safety Command,East Field Command,41 Division,Civilian,21
+1139,2022,Community Safety Command,East Field Command,42 Division,Superintendent & Above,1
+1140,2022,Community Safety Command,East Field Command,42 Division,Inspector,1
+1141,2022,Community Safety Command,East Field Command,42 Division,Detective Sergeant/ Staff Sergeant,6
+1142,2022,Community Safety Command,East Field Command,42 Division,Sergeant/Detective,28
+1143,2022,Community Safety Command,East Field Command,42 Division,Police Constable,147
+1144,2022,Community Safety Command,East Field Command,42 Division,Civilian,19
+1145,2022,Community Safety Command,East Field Command,43 Division,Superintendent & Above,1
+1146,2022,Community Safety Command,East Field Command,43 Division,Inspector,1
+1147,2022,Community Safety Command,East Field Command,43 Division,Detective Sergeant/ Staff Sergeant,5
+1148,2022,Community Safety Command,East Field Command,43 Division,Sergeant/Detective,29
+1149,2022,Community Safety Command,East Field Command,43 Division,Police Constable,186
+1150,2022,Community Safety Command,East Field Command,43 Division,Civilian,32
+1151,2021,Community Safety Command,West Field Command,22 Division,Sergeant/Detective,22
+1152,2021,Community Safety Command,West Field Command,22 Division,Superintendent & Above,0
+1153,2021,Community Safety Command,West Field Command,23 Division,Civilian,18
+1154,2021,Community Safety Command,West Field Command,23 Division,Detective Sergeant/ Staff Sergeant,5
+1155,2021,Community Safety Command,West Field Command,23 Division,Inspector,1
+1156,2021,Community Safety Command,West Field Command,23 Division,Police Constable,162
+1157,2021,Community Safety Command,West Field Command,23 Division,Sergeant/Detective,23
+1158,2021,Community Safety Command,West Field Command,23 Division,Superintendent & Above,1
+1159,2021,Community Safety Command,West Field Command,31 Division,Civilian,21
+1160,2021,Community Safety Command,West Field Command,31 Division,Detective Sergeant/ Staff Sergeant,4
+1161,2021,Community Safety Command,West Field Command,31 Division,Inspector,1
+1162,2021,Community Safety Command,West Field Command,31 Division,Police Constable,154
+1163,2021,Community Safety Command,West Field Command,31 Division,Sergeant/Detective,27
+1164,2021,Community Safety Command,West Field Command,31 Division,Superintendent & Above,1
+1165,2021,Community Safety Command,West Field Command,51 Division,Civilian,34
+1166,2021,Community Safety Command,West Field Command,51 Division,Detective Sergeant/ Staff Sergeant,7
+1167,2021,Community Safety Command,West Field Command,51 Division,Inspector,1
+1168,2021,Community Safety Command,West Field Command,51 Division,Police Constable,218
+1169,2021,Community Safety Command,West Field Command,51 Division,Sergeant/Detective,33
+1170,2021,Community Safety Command,West Field Command,51 Division,Superintendent & Above,1
+1171,2021,Community Safety Command,West Field Command,52 Division,Civilian,29
+1172,2021,Community Safety Command,West Field Command,52 Division,Detective Sergeant/ Staff Sergeant,8
+1173,2021,Community Safety Command,West Field Command,52 Division,Inspector,1
+1174,2021,Community Safety Command,West Field Command,52 Division,Police Constable,175
+1175,2021,Community Safety Command,West Field Command,52 Division,Sergeant/Detective,32
+1176,2021,Community Safety Command,West Field Command,52 Division,Superintendent & Above,1
+1177,2021,Community Safety Command,Field Services,Community Partnership and Engagement,Civilian,6
+1178,2021,Community Safety Command,Field Services,Community Partnership and Engagement,Detective Sergeant/ Staff Sergeant,3
+1179,2021,Community Safety Command,Field Services,Community Partnership and Engagement,Inspector,0
+1180,2021,Community Safety Command,Field Services,Community Partnership and Engagement,Police Constable,23
+1181,2021,Community Safety Command,Field Services,Community Partnership and Engagement,Sergeant/Detective,7
+1182,2021,Community Safety Command,Field Services,Community Partnership and Engagement,Superintendent & Above,0
+1183,2021,Community Safety Command,Field Services,Parking Enforcement Unit,Civilian,389
+1184,2021,Community Safety Command,Field Services,Parking Enforcement Unit,Detective Sergeant/ Staff Sergeant,1
+1185,2021,Community Safety Command,Field Services,Parking Enforcement Unit,Inspector,1
+1186,2021,Community Safety Command,Field Services,Parking Enforcement Unit,Police Constable,1
+1187,2021,Community Safety Command,Field Services,Parking Enforcement Unit,Sergeant/Detective,1
+1188,2021,Community Safety Command,Field Services,Parking Enforcement Unit,Superintendent & Above,0
+1189,2021,Community Safety Command,Field Services,Public Safety Response,Civilian,1
+1190,2021,Community Safety Command,Field Services,Public Safety Response,Detective Sergeant/ Staff Sergeant,1
+1191,2021,Community Safety Command,Field Services,Public Safety Response,Inspector,1
+1192,2021,Community Safety Command,Field Services,Public Safety Response,Police Constable,62
+1193,2021,Community Safety Command,Field Services,Public Safety Response,Sergeant/Detective,6
+1194,2021,Community Safety Command,Field Services,Public Safety Response,Superintendent & Above,0
+1195,2021,Community Safety Command,Field Services,Traffic Services,Civilian,14
+1196,2021,Community Safety Command,Field Services,Traffic Services,Detective Sergeant/ Staff Sergeant,9
+1197,2021,Community Safety Command,Field Services,Traffic Services,Inspector,1
+1198,2021,Community Safety Command,Field Services,Traffic Services,Police Constable,244
+1199,2021,Community Safety Command,Field Services,Traffic Services,Sergeant/Detective,38
+1200,2021,Community Safety Command,Field Services,Traffic Services,Superintendent & Above,1
+1201,2023,Community Safety Command,West Field Command,31 Division,Detective Sergeant/ Staff Sergeant,5
+1202,2023,Community Safety Command,West Field Command,31 Division,Sergeant/Detective,26
+1203,2023,Community Safety Command,West Field Command,31 Division,Police Constable,160
+1204,2023,Community Safety Command,West Field Command,31 Division,Civilian,24
+1205,2023,Community Safety Command,East Field Command,32 Division,Superintendent & Above,1
+1206,2023,Community Safety Command,East Field Command,32 Division,Inspector,1
+1207,2023,Community Safety Command,East Field Command,32 Division,Detective Sergeant/ Staff Sergeant,6
+1208,2023,Community Safety Command,East Field Command,32 Division,Sergeant/Detective,24
+1209,2023,Community Safety Command,East Field Command,32 Division,Police Constable,175
+1210,2023,Community Safety Command,East Field Command,32 Division,Civilian,31
+1211,2023,Community Safety Command,East Field Command,33 Division,Superintendent & Above,1
+1212,2023,Community Safety Command,East Field Command,33 Division,Inspector,1
+1213,2023,Community Safety Command,East Field Command,33 Division,Detective Sergeant/ Staff Sergeant,6
+1214,2023,Community Safety Command,East Field Command,33 Division,Sergeant/Detective,13
+1215,2023,Community Safety Command,East Field Command,33 Division,Police Constable,136
+1216,2023,Community Safety Command,East Field Command,33 Division,Civilian,12
+1217,2023,Community Safety Command,East Field Command,41 Division,Superintendent & Above,1
+1218,2023,Community Safety Command,East Field Command,41 Division,Inspector,1
+1219,2023,Community Safety Command,East Field Command,41 Division,Detective Sergeant/ Staff Sergeant,7
+1220,2023,Community Safety Command,East Field Command,41 Division,Sergeant/Detective,23
+1221,2023,Community Safety Command,East Field Command,41 Division,Police Constable,167
+1222,2023,Community Safety Command,East Field Command,41 Division,Civilian,19
+1223,2023,Community Safety Command,East Field Command,42 Division,Superintendent & Above,1
+1224,2023,Community Safety Command,East Field Command,42 Division,Inspector,1
+1225,2023,Community Safety Command,East Field Command,42 Division,Detective Sergeant/ Staff Sergeant,6
+1226,2023,Community Safety Command,East Field Command,42 Division,Sergeant/Detective,28
+1227,2023,Community Safety Command,East Field Command,42 Division,Police Constable,148
+1228,2023,Community Safety Command,East Field Command,42 Division,Civilian,20
+1229,2023,Community Safety Command,East Field Command,43 Division,Superintendent & Above,1
+1230,2023,Community Safety Command,East Field Command,43 Division,Inspector,1
+1231,2023,Community Safety Command,East Field Command,43 Division,Detective Sergeant/ Staff Sergeant,4
+1232,2022,Community Safety Command,West Field Command,51 Division,Superintendent & Above,1
+1233,2023,Community Safety Command,East Field Command,55 Division,Civilian,13
+1234,2023,Community Safety Command,East Field Command,43 Division,Sergeant/Detective,26
+1235,2022,Community Safety Command,Field Services,Public Safety Response,Sergeant/Detective,7
+1236,2023,Community Safety Command,East Field Command,43 Division,Police Constable,196
+1237,2023,Community Safety Command,East Field Command,43 Division,Civilian,39
+1238,2023,Community Safety Command,West Field Command,51 Division,Superintendent & Above,1
+1239,2023,Community Safety Command,West Field Command,51 Division,Inspector,1
+1240,2023,Community Safety Command,West Field Command,51 Division,Detective Sergeant/ Staff Sergeant,6
+1241,2023,Community Safety Command,West Field Command,51 Division,Sergeant/Detective,32
+1242,2023,Community Safety Command,West Field Command,51 Division,Police Constable,238
+1243,2023,Community Safety Command,West Field Command,51 Division,Civilian,39
+1244,2023,Community Safety Command,West Field Command,52 Division,Superintendent & Above,1
+1245,2023,Community Safety Command,West Field Command,52 Division,Inspector,1
+1246,2023,Community Safety Command,West Field Command,52 Division,Detective Sergeant/ Staff Sergeant,7
+1247,2023,Community Safety Command,West Field Command,52 Division,Sergeant/Detective,28
+1248,2023,Community Safety Command,West Field Command,52 Division,Police Constable,189
+1249,2023,Community Safety Command,West Field Command,52 Division,Civilian,30
+1250,2023,Community Safety Command,East Field Command,53 Division,Superintendent & Above,0
+1251,2023,Community Safety Command,East Field Command,53 Division,Inspector,1
+1252,2023,Community Safety Command,East Field Command,53 Division,Detective Sergeant/ Staff Sergeant,3
+1253,2023,Community Safety Command,East Field Command,53 Division,Sergeant/Detective,25
+1254,2023,Community Safety Command,East Field Command,53 Division,Police Constable,139
+1255,2023,Community Safety Command,East Field Command,53 Division,Civilian,11
+1256,2023,Community Safety Command,East Field Command,55 Division,Superintendent & Above,1
+1257,2023,Community Safety Command,East Field Command,55 Division,Inspector,1
+1258,2023,Community Safety Command,East Field Command,55 Division,Detective Sergeant/ Staff Sergeant,7
+1259,2023,Community Safety Command,East Field Command,55 Division,Sergeant/Detective,28
+1260,2023,Community Safety Command,East Field Command,55 Division,Police Constable,243
+1261,2022,Community Safety Command,West Field Command,51 Division,Inspector,1
+1262,2023,Community Safety Command,Field Services,Communication Services,Superintendent & Above,0
+1263,2022,Community Safety Command,Field Services,Public Safety Response,Police Constable,62
+1264,2022,Community Safety Command,West Field Command,51 Division,Detective Sergeant/ Staff Sergeant,5
+1265,2023,Community Safety Command,Field Services,Communication Services,Detective Sergeant/ Staff Sergeant,1
+1266,2022,Community Safety Command,Field Services,Public Safety Response,Civilian,1
+1267,2022,Community Safety Command,West Field Command,51 Division,Sergeant/Detective,33
+1268,2023,Community Safety Command,Field Services,Communication Services,Sergeant/Detective,13
+1269,2022,Community Safety Command,Field Services,Toronto Police Operations,Superintendent & Above,1
+1270,2022,Community Safety Command,West Field Command,51 Division,Police Constable,229
+1271,2023,Community Safety Command,Field Services,Communication Services,Police Constable,42
+1272,2022,Community Safety Command,Field Services,Toronto Police Operations,Inspector,6
+1273,2022,Community Safety Command,West Field Command,51 Division,Civilian,34
+1274,2023,Community Safety Command,Field Services,Communication Services,Civilian,332
+1275,2022,Community Safety Command,West Field Command,52 Division,Superintendent & Above,1
+1276,2022,Community Safety Command,West Field Command,52 Division,Inspector,1
+1277,2022,Community Safety Command,West Field Command,52 Division,Detective Sergeant/ Staff Sergeant,8
+1278,2022,Community Safety Command,West Field Command,52 Division,Sergeant/Detective,30
+1279,2022,Community Safety Command,West Field Command,52 Division,Police Constable,188
+1280,2022,Community Safety Command,West Field Command,52 Division,Civilian,22
+1281,2022,Community Safety Command,East Field Command,53 Division,Superintendent & Above,0
+1282,2022,Community Safety Command,East Field Command,53 Division,Inspector,1
+1283,2022,Community Safety Command,East Field Command,53 Division,Detective Sergeant/ Staff Sergeant,5
+1284,2022,Community Safety Command,East Field Command,53 Division,Sergeant/Detective,28
+1285,2022,Community Safety Command,East Field Command,53 Division,Police Constable,128
+1286,2022,Community Safety Command,East Field Command,53 Division,Civilian,7
+1287,2022,Community Safety Command,East Field Command,55 Division,Superintendent & Above,1
+1288,2022,Community Safety Command,East Field Command,55 Division,Inspector,1
+1289,2022,Community Safety Command,East Field Command,55 Division,Detective Sergeant/ Staff Sergeant,4
+1290,2022,Community Safety Command,East Field Command,55 Division,Sergeant/Detective,32
+1291,2022,Community Safety Command,East Field Command,55 Division,Police Constable,237
+1292,2022,Community Safety Command,East Field Command,55 Division,Civilian,13
+1293,2022,Community Safety Command,Field Services,Communication Services,Superintendent & Above,0
+1294,2022,Community Safety Command,Field Services,Communication Services,Detective Sergeant/ Staff Sergeant,1
+1295,2022,Community Safety Command,Field Services,Communication Services,Sergeant/Detective,12
+1296,2022,Community Safety Command,Field Services,Communication Services,Police Constable,39
+1297,2022,Community Safety Command,Field Services,Communication Services,Civilian,338
+1298,2022,Community Safety Command,Field Services,Community Partnership and Engagement,Superintendent & Above,1
+1299,2022,Community Safety Command,Field Services,Community Partnership and Engagement,Detective Sergeant/ Staff Sergeant,2
+1300,2022,Community Safety Command,Field Services,Community Partnership and Engagement,Sergeant/Detective,8
+1301,2022,Community Safety Command,Field Services,Community Partnership and Engagement,Police Constable,23
+1302,2022,Community Safety Command,Field Services,Community Partnership and Engagement,Civilian,4
+1303,2022,Community Safety Command,Community Safety Command,Community Safety Command,Superintendent & Above,2
+1304,2022,Community Safety Command,Community Safety Command,Community Safety Command,Detective Sergeant/ Staff Sergeant,0
+1305,2022,Community Safety Command,Community Safety Command,Community Safety Command,Sergeant/Detective,0
+1306,2022,Community Safety Command,Community Safety Command,Community Safety Command,Police Constable,0
+1307,2022,Community Safety Command,Community Safety Command,Community Safety Command,Civilian,1
+1308,2022,Community Safety Command,East Field Command,East Field Command,Superintendent & Above,1
+1309,2022,Community Safety Command,East Field Command,East Field Command,Detective Sergeant/ Staff Sergeant,0
+1310,2022,Community Safety Command,East Field Command,East Field Command,Sergeant/Detective,1
+1311,2022,Community Safety Command,East Field Command,East Field Command,Police Constable,1
+1312,2022,Community Safety Command,East Field Command,East Field Command,Civilian,1
+1313,2022,Community Safety Command,Field Services,Field Services,Superintendent & Above,2
+1314,2022,Community Safety Command,Field Services,Toronto Police Operations,Detective Sergeant/ Staff Sergeant,5
+1315,2022,Community Safety Command,Field Services,Field Services,Detective Sergeant/ Staff Sergeant,1
+1316,2022,Community Safety Command,Field Services,Field Services,Sergeant/Detective,1
+1317,2022,Community Safety Command,Field Services,Field Services,Police Constable,0
+1318,2022,Community Safety Command,Field Services,Field Services,Civilian,2
+1319,2022,Community Safety Command,Field Services,Parking Enforcement Unit,Superintendent & Above,0
+1320,2022,Community Safety Command,Field Services,Parking Enforcement Unit,Detective Sergeant/ Staff Sergeant,0
+1321,2022,Community Safety Command,Field Services,Parking Enforcement Unit,Sergeant/Detective,1
+1322,2022,Community Safety Command,Field Services,Parking Enforcement Unit,Police Constable,1
+1323,2022,Community Safety Command,Field Services,Parking Enforcement Unit,Civilian,352
+1324,2022,Community Safety Command,Field Services,Public Safety Response,Superintendent & Above,0
+1325,2022,Community Safety Command,Field Services,Public Safety Response,Inspector,1
+1326,2022,Community Safety Command,Field Services,Public Safety Response,Detective Sergeant/ Staff Sergeant,2
+1327,2022,Community Safety Command,Field Services,Toronto Police Operations,Sergeant/Detective,6
+1328,2022,Community Safety Command,Field Services,Toronto Police Operations,Police Constable,11
+1329,2022,Community Safety Command,Field Services,Toronto Police Operations,Civilian,2
+1330,2022,Community Safety Command,Field Services,Traffic Services,Superintendent & Above,0
+1331,2022,Community Safety Command,Field Services,Traffic Services,Inspector,2
+1332,2022,Community Safety Command,Field Services,Traffic Services,Detective Sergeant/ Staff Sergeant,7
+1333,2022,Community Safety Command,Field Services,Traffic Services,Sergeant/Detective,35
+1334,2022,Community Safety Command,Field Services,Traffic Services,Police Constable,249
+1335,2022,Community Safety Command,Field Services,Traffic Services,Civilian,12
+1336,2022,Community Safety Command,West Field Command,West Field Command,Superintendent & Above,1
+1337,2022,Community Safety Command,West Field Command,West Field Command,Detective Sergeant/ Staff Sergeant,1
+1338,2022,Community Safety Command,West Field Command,West Field Command,Sergeant/Detective,1
+1339,2022,Community Safety Command,West Field Command,West Field Command,Police Constable,0
+1340,2022,Community Safety Command,West Field Command,West Field Command,Civilian,4
+1341,2023,Community Safety Command,West Field Command,11 Division,Superintendent & Above,1
+1342,2023,Community Safety Command,West Field Command,11 Division,Inspector,1
+1343,2023,Community Safety Command,West Field Command,11 Division,Detective Sergeant/ Staff Sergeant,5
+1344,2023,Community Safety Command,West Field Command,11 Division,Sergeant/Detective,19
+1345,2023,Community Safety Command,West Field Command,11 Division,Police Constable,139
+1346,2023,Community Safety Command,West Field Command,11 Division,Civilian,12
+1347,2023,Community Safety Command,West Field Command,12 Division,Superintendent & Above,1
+1348,2023,Community Safety Command,West Field Command,12 Division,Inspector,1
+1349,2023,Community Safety Command,West Field Command,12 Division,Detective Sergeant/ Staff Sergeant,6
+1350,2023,Community Safety Command,West Field Command,12 Division,Sergeant/Detective,20
+1351,2023,Community Safety Command,West Field Command,12 Division,Police Constable,135
+1352,2023,Community Safety Command,West Field Command,12 Division,Civilian,20
+1353,2023,Community Safety Command,East Field Command,13 Division,Superintendent & Above,1
+1354,2023,Community Safety Command,East Field Command,13 Division,Inspector,1
+1355,2023,Community Safety Command,East Field Command,13 Division,Detective Sergeant/ Staff Sergeant,4
+1356,2023,Community Safety Command,East Field Command,13 Division,Sergeant/Detective,25
+1357,2023,Community Safety Command,East Field Command,13 Division,Police Constable,117
+1358,2023,Community Safety Command,East Field Command,13 Division,Civilian,11
+1359,2023,Community Safety Command,West Field Command,14 Division,Superintendent & Above,1
+1360,2023,Community Safety Command,West Field Command,14 Division,Inspector,1
+1361,2023,Community Safety Command,West Field Command,14 Division,Detective Sergeant/ Staff Sergeant,6
+1362,2023,Community Safety Command,West Field Command,14 Division,Sergeant/Detective,29
+1363,2023,Community Safety Command,West Field Command,14 Division,Police Constable,219
+1364,2023,Community Safety Command,West Field Command,14 Division,Civilian,38
+1365,2023,Community Safety Command,West Field Command,22 Division,Superintendent & Above,0
+1366,2023,Community Safety Command,West Field Command,22 Division,Inspector,1
+1367,2023,Community Safety Command,Field Services,Community Pship and Engagement,Superintendent & Above,1
+1368,2023,Community Safety Command,West Field Command,22 Division,Detective Sergeant/ Staff Sergeant,6
+1369,2023,Community Safety Command,Field Services,Community Pship and Engagement,Inspector,1
+1370,2023,Community Safety Command,West Field Command,22 Division,Sergeant/Detective,23
+1371,2023,Community Safety Command,Field Services,Community Pship and Engagement,Detective Sergeant/ Staff Sergeant,2
+1372,2023,Community Safety Command,West Field Command,22 Division,Police Constable,170
+1373,2023,Community Safety Command,Field Services,Community Pship and Engagement,Sergeant/Detective,9
+1374,2023,Community Safety Command,West Field Command,22 Division,Civilian,11
+1375,2023,Community Safety Command,Field Services,Community Pship and Engagement,Police Constable,22
+1376,2023,Community Safety Command,West Field Command,23 Division,Superintendent & Above,1
+1377,2023,Community Safety Command,Field Services,Community Pship and Engagement,Civilian,4
+1378,2023,Community Safety Command,West Field Command,23 Division,Inspector,1
+1379,2023,Community Safety Command,Community Safety Command,Community Safety Command,Superintendent & Above,1
+1380,2023,Community Safety Command,West Field Command,23 Division,Detective Sergeant/ Staff Sergeant,3
+1381,2023,Community Safety Command,Community Safety Command,Community Safety Command,Detective Sergeant/ Staff Sergeant,0
+1382,2023,Community Safety Command,West Field Command,23 Division,Sergeant/Detective,22
+1383,2023,Community Safety Command,Community Safety Command,Community Safety Command,Sergeant/Detective,0
+1384,2023,Community Safety Command,West Field Command,23 Division,Police Constable,168
+1385,2023,Community Safety Command,Community Safety Command,Community Safety Command,Police Constable,0
+1386,2023,Community Safety Command,West Field Command,23 Division,Civilian,32
+1387,2023,Community Safety Command,Community Safety Command,Community Safety Command,Civilian,1
+1388,2023,Community Safety Command,West Field Command,31 Division,Superintendent & Above,1
+1389,2023,Community Safety Command,East Field Command,East Field Command,Superintendent & Above,1
+1390,2023,Community Safety Command,East Field Command,East Field Command,Detective Sergeant/ Staff Sergeant,0
+1391,2023,Community Safety Command,East Field Command,East Field Command,Sergeant/Detective,1
+1392,2023,Community Safety Command,East Field Command,East Field Command,Police Constable,1
+1393,2023,Community Safety Command,East Field Command,East Field Command,Civilian,1
+1394,2023,Community Safety Command,Field Services,Field Services,Superintendent & Above,1
+1395,2023,Community Safety Command,Field Services,Field Services,Detective Sergeant/ Staff Sergeant,1
+1396,2023,Community Safety Command,Field Services,Field Services,Sergeant/Detective,1
+1397,2023,Community Safety Command,Field Services,Field Services,Police Constable,0
+1398,2023,Community Safety Command,Field Services,Field Services,Civilian,1
+1399,2023,Community Safety Command,Field Services,Parking Enforcement Unit,Superintendent & Above,0
+1400,2023,Community Safety Command,Field Services,Parking Enforcement Unit,Detective Sergeant/ Staff Sergeant,0
+1401,2023,Community Safety Command,Field Services,Parking Enforcement Unit,Sergeant/Detective,1
+1402,2023,Community Safety Command,Field Services,Parking Enforcement Unit,Police Constable,1
+1403,2023,Community Safety Command,Field Services,Parking Enforcement Unit,Civilian,397
+1404,2023,Community Safety Command,Field Services,Public Safety Response,Superintendent & Above,0
+1405,2023,Community Safety Command,Field Services,Public Safety Response,Inspector,1
+1406,2023,Community Safety Command,Field Services,Public Safety Response,Detective Sergeant/ Staff Sergeant,1
+1407,2023,Community Safety Command,Field Services,Public Safety Response,Sergeant/Detective,7
+1408,2023,Community Safety Command,Field Services,Public Safety Response,Police Constable,64
+1409,2023,Community Safety Command,Field Services,Public Safety Response,Civilian,1
+1410,2023,Community Safety Command,Field Services,Toronto Police Operations,Superintendent & Above,1
+1411,2023,Community Safety Command,Field Services,Toronto Police Operations,Inspector,7
+1412,2023,Community Safety Command,Field Services,Toronto Police Operations,Detective Sergeant/ Staff Sergeant,5
+1413,2023,Community Safety Command,Field Services,Toronto Police Operations,Sergeant/Detective,4
+1414,2023,Community Safety Command,Field Services,Toronto Police Operations,Police Constable,12
+1415,2023,Community Safety Command,Field Services,Toronto Police Operations,Civilian,2
+1416,2023,Community Safety Command,Field Services,Traffic Services,Superintendent & Above,1
+1417,2023,Community Safety Command,Field Services,Traffic Services,Inspector,1
+1418,2023,Community Safety Command,Field Services,Traffic Services,Detective Sergeant/ Staff Sergeant,7
+1419,2023,Community Safety Command,Field Services,Traffic Services,Sergeant/Detective,32
+1420,2023,Community Safety Command,Field Services,Traffic Services,Police Constable,227
+1421,2023,Community Safety Command,Field Services,Traffic Services,Civilian,16
+1422,2023,Community Safety Command,West Field Command,West Field Command,Superintendent & Above,1
+1423,2023,Community Safety Command,West Field Command,West Field Command,Detective Sergeant/ Staff Sergeant,1
+1424,2023,Community Safety Command,West Field Command,West Field Command,Sergeant/Detective,0
+1425,2023,Community Safety Command,West Field Command,West Field Command,Police Constable,1
+1426,2023,Community Safety Command,West Field Command,West Field Command,Civilian,1

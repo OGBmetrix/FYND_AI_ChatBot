@@ -1,0 +1,138 @@
+# Schema / alias map for the Security Intelligence Data Pipeline
+# Updated to match actual Toronto Police open data filenames (Anthony Ogbonna, Oct 2025)
+
+location_priority:
+  - neighbourhood
+  - neighborhood
+  - neighbourhood_name
+  - division
+  - zone_name
+  - patrol_zone
+  - location_name
+  - location
+  - area
+  - ward
+  - community
+  - district
+
+latitude_aliases: [latitude, lat, y, lat_wgs84]
+longitude_aliases: [longitude, lon, long, x, lng, lon_wgs84]
+
+date_priority:
+  - occurrence_date
+  - occ_date
+  - date
+  - reported_date
+  - occurrencedate
+  - event_date
+  - start_date
+  - issue_date
+  - year
+  - incident_date
+
+year_aliases: [year, occ_year, yr, reported_year, event_year]
+
+count_hint_columns:
+  # Columns treated as counts when aggregating
+  - accnum
+  - offence
+  - offence_type
+  - mci_category
+  - charge_type
+  - call_type
+  - arrests
+  - arrest_count
+  - total_dispatch_calls
+  - search_count
+  - total_calls
+  - incident_id
+  - event_id
+  - record_id
+  - total
+  - count
+  - number
+  - case_number
+  - index
+  - report_id
+  - ticket_id
+  - occurrence_id
+  - personid
+  - count_
+  - subtype
+
+
+drop_like:
+  - objectid
+  - fid
+  - globalid
+  - shape
+  - geom
+  - geometry
+  - wkt
+  - geojson
+  - index_
+  - _id
+  - unnamed
+
+
+# CATEGORY KEYWORDS — file keyword → canonical dataset category
+
+category_keywords:
+
+  # --- CRIME DATA ---
+  assault: assault
+  auto_theft: auto_theft
+  break_and_enter: break_and_enter
+  robbery: robbery
+  theft_over: theft_over
+  theft_from_motor_vehicle: theft_from_motor_vehicle
+  mci: mci
+  homicide: homicide
+  victim: victims
+  victims_of_crime: victims
+  reported_crime: reported_crimes
+  neighbourhood_crime_rates: neighbourhood_crime_rates
+  neighbourhood_crime_rates_open_data: neighbourhood_crime_rates
+  bicycle_thefts: bicycle_thefts
+  shootings: shootings_firearm
+  firearm_discharges: shootings_firearm
+  miscellaneous_firearms: shootings_firearm
+
+  # --- TRAFFIC / COLLISIONS ---
+  ksi: ksi
+  cyclist_ksi: ksi_cyclist
+  motorcyclist_ksi: ksi_motorcyclist
+  pedestrian_ksi: ksi_pedestrian
+  totals_ksi: ksi_total
+  fatals_ksi: fatal_collisions
+  traffic_collisions: traffic_collisions
+  traffic_collisions_open_data: traffic_collisions
+
+  # --- OPERATIONS / POLICE ACTIVITY ---
+  patrol_zone: patrol_zone
+  police_boundaries: police_boundaries
+  police_boundaries_data: police_boundaries
+  dispatch: dispatched_calls
+  dispatched_calls: dispatched_calls
+  dispatched_calls_by_division: dispatched_calls
+  arrested_and_charged: arrested_and_charged_persons
+  arrested_and_charged_persons: arrested_and_charged_persons
+  arrests_and_strip_searches: arrests_and_strip_searches
+  strip_searches: arrests_and_strip_searches
+  search_of_persons: search_of_persons
+  search: search_of_persons
+  arrest: arrested_and_charged_persons
+  operations_arrest: arrested_and_charged_persons
+  operations_dispatch: dispatched_calls
+  operations_call: dispatched_calls
+  operations_search: search_of_persons
+
+  # --- BUDGET & ADMINISTRATION ---
+  gross_operating_budget: budget_operating
+  gross_expenditures: budget_expenditures
+  expenditures_by_division: budget_expenditures
+  personnel_by_rank: personnel_by_rank
+  personnel_by_rank_by_division: personnel_by_rank
+  budget_operating_alias: budget_operating
+  budget_expenditures_alias: budget_expenditures
+  budget_personnel: personnel_by_rank

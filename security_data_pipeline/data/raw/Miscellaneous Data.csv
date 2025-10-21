@@ -1,0 +1,41 @@
+_id,YEAR,SECTION,CATEGORY,SUBTYPE,COUNT_
+1,2014,Reported Crime,Hate Crimes,Hate Crimes,146
+2,2015,Reported Crime,Hate Crimes,Hate Crimes,134
+3,2016,Reported Crime,Hate Crimes,Hate Crimes,176
+4,2017,Reported Crime,Hate Crimes,Hate Crimes,186
+5,2018,Reported Crime,Hate Crimes,Hate Crimes,132
+6,2019,Reported Crime,Hate Crimes,Hate Crimes,136
+7,2020,Reported Crime,Hate Crimes,Hate Crimes,209
+8,2021,Reported Crime,Hate Crimes,Hate Crimes,257
+9,2022,Reported Crime,Hate Crimes,Hate Crimes,248
+10,2023,Reported Crime,Hate Crimes,Hate Crimes,368
+11,2014,Traffic,R.I.D.E,Vehicles Stopped,208118
+12,2014,Traffic,R.I.D.E,Charges Laid,161
+13,2015,Traffic,R.I.D.E,Vehicles Stopped,207375
+14,2015,Traffic,R.I.D.E,Charges Laid,159
+15,2016,Traffic,R.I.D.E,Vehicles Stopped,184768
+16,2016,Traffic,R.I.D.E,Charges Laid,147
+17,2017,Traffic,R.I.D.E,Vehicles Stopped,149190
+18,2017,Traffic,R.I.D.E,Charges Laid,102
+19,2018,Traffic,R.I.D.E,Vehicles Stopped,104234
+20,2018,Traffic,R.I.D.E,Charges Laid,60
+21,2019,Traffic,R.I.D.E,Vehicles Stopped,153299
+22,2019,Traffic,R.I.D.E,Charges Laid,70
+23,2020,Traffic,R.I.D.E,Vehicles Stopped,35336
+24,2020,Traffic,R.I.D.E,Charges Laid,50
+25,2021,Traffic,R.I.D.E,Vehicles Stopped,32102
+26,2021,Traffic,R.I.D.E,Charges Laid,62
+27,2022,Traffic,R.I.D.E,Vehicles Stopped,19464
+28,2022,Traffic,R.I.D.E,Charges Laid,41
+29,2023,Traffic,R.I.D.E,Vehicles Stopped,5734
+30,2023,Traffic,R.I.D.E,Charges Laid,41
+31,2014,Personnel & Budget,Budget,Actual Expenditures,"$1,084,194,103.00"
+32,2015,Personnel & Budget,Budget,Actual Expenditures,"$1,106,525,755.00"
+33,2016,Personnel & Budget,Budget,Actual Expenditures,"$1,123,841,764.00"
+34,2017,Personnel & Budget,Budget,Actual Expenditures,"$1,120,556,233.00"
+35,2018,Personnel & Budget,Budget,Actual Expenditures,"$1,147,508,983.00"
+36,2019,Personnel & Budget,Budget,Actual Expenditures,"$1,195,949,008.00"
+37,2020,Personnel & Budget,Budget,Actual Expenditures,"$1,203,878,889.00"
+38,2021,Personnel & Budget,Budget,Actual Expenditures,"$1,221,151,714.00"
+39,2022,Personnel & Budget,Budget,Actual Expenditures,"$1,274,877,236.00"
+40,2023,Personnel & Budget,Budget,Actual Expenditures,"$1,363,786,560.00"
