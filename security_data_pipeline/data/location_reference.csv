@@ -1,0 +1,26 @@
+location_name,display_name,latitude,longitude,type
+D11,West End Toronto,43.675,-79.435,Division
+D12,York South–Weston,43.697,-79.483,Division
+D13,North Midtown,43.713,-79.399,Division
+D14,Downtown West,43.646,-79.417,Division
+D22,Etobicoke South,43.622,-79.535,Division
+D23,Etobicoke North,43.702,-79.556,Division
+D31,North York Central,43.789,-79.456,Division
+D32,North York East,43.757,-79.413,Division
+D33,Don Mills–North East York,43.769,-79.330,Division
+D41,Scarborough West,43.706,-79.272,Division
+D42,Scarborough Centre,43.783,-79.247,Division
+D43,Scarborough East,43.790,-79.176,Division
+D51,Downtown East,43.659,-79.366,Division
+D52,Downtown Core,43.647,-79.385,Division
+D53,Midtown Toronto,43.714,-79.393,Division
+D54,East York North,43.684,-79.341,Division
+D55,East Toronto,43.670,-79.311,Division
+Downtown Toronto,Downtown Toronto,43.654,-79.383,Area
+Scarborough,Scarborough,43.773,-79.239,Area
+Etobicoke,Etobicoke,43.620,-79.535,Area
+North York,North York,43.761,-79.411,Area
+East York,East York,43.690,-79.329,Area
+York,York,43.685,-79.460,Area
+Old Toronto,Old Toronto,43.653,-79.383,Area
+Toronto,Toronto,43.700,-79.420,City

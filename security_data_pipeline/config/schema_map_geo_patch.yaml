@@ -1,0 +1,7 @@
+# Optional schema patch to document new fields used by geo enrichment
+extra_fields:
+  - display_name
+  - location_pretty
+notes:
+  - 'display_name is a user-friendly label for divisions/areas (e.g., Division 14 -> Downtown West)'
+  - 'location_pretty is what the chatbot should show in answers'
