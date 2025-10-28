@@ -10,10 +10,12 @@ from urban_safety_fetcher import fetch_urban_safety
 from alert_fetcher import fetch_all_alerts
 from news_fetcher import fetch_latest_news
 from census_fetcher import fetch_population_by_region
+from intent_parser import parse_intent
+from reasoning_engine import reason_about_data
 
 # --- FYND Knowledge Base (Semantic Reasoning Layer) ---
 try:
-    from query_knowledge import search as kb_search
+    from query_knowledge import kb_search
     KB_READY = True
 except Exception as e:
     KB_READY = False
@@ -178,27 +180,57 @@ if query:
             st.plotly_chart(fig, use_container_width=True)
             st.success("✅ FYND AI can now relate crime risk to demographics.")
 
-    # === 🔟 Semantic Knowledge Base (Reasoning Layer) ===
-    elif KB_READY:
-        st.info("🧠 Engaging FYND AI Knowledge Base for deeper insights...")
-        results = kb_search(query, top_k=5)
-        if not results:
-            st.warning("No close matches found in the knowledge base.")
-        else:
-            for r in results:
-                st.markdown(f"**📘 Source:** {r['source']} — Confidence: {r['confidence']*100:.0f}%")
-                st.caption(r['text'][:350] + "…")
-            avg_conf = np.mean([r["confidence"] for r in results])
-            if avg_conf >= 0.85:
-                st.success("Answer quality: **High confidence** ✅")
-            elif avg_conf >= 0.6:
-                st.warning("Answer quality: **Moderate confidence** ⚠️")
-            else:
-                st.error("Answer quality: **Low confidence** ❗ FYND AI is estimating based on patterns.")
-
-    # === 🧩 Fallback ===
+# === 🔟 Semantic Knowledge Base (Reasoning Layer) ===
+elif KB_READY:
+    st.info("🧠 Engaging FYND AI Knowledge Base for deeper insights...")
+    results = kb_search(query, top_k=5)
+    if results:
+        st.info("📘 Knowledge Base Answers:")
+        for r in results:
+            conf = r.get("confidence", 0)
+            source = r.get("source", "Knowledge Base")
+            st.markdown(f"**📘 Source:** {source} — Confidence: {conf*100:.0f}%")
+            st.write(r.get("text", "")[:400] + "…")
     else:
-        st.warning("🤖 I don’t understand that yet. Try asking about *car thefts*, *alerts*, *news*, *income*, or *urban safety*.")
-
+        st.warning("🤖 FYND AI is working tirelessly to improve our datasets and knowledge base. Please check back soon for more intelligent insights!")
 else:
-    st.info("💡 Try asking: *Show latest Toronto crime news* or *Are there any active weather alerts?*")
+    st.info("🤖 FYND AI is working tirelessly to improve our datasets and understanding. Try asking about *car thefts*, *alerts*, *news*, or *urban safety* for now!")
+    intent_data = parse_intent(query)
+
+# -----------------------------
+# INTENT DETECTION & REASONING
+# -----------------------------
+intent_data = {"intent": "other", "confidence": 0.0}  # default fallback
+
+# Provide a safe default context snippet so parse_intent has something to format.
+# This can be enriched later with conversation history or relevant dataset summaries.
+context_snippet = ""
+
+try:
+    intent_data = parse_intent(f"{context_snippet}\nUser: {query}")
+except Exception as e:
+    st.warning(f"⚠️ Intent parsing failed: {e}")
+    intent_data = {"intent": "other", "confidence": 0.0}
+
+intent = intent_data.get("intent", "other")
+confidence = intent_data.get("confidence", 0.0)
+
+st.caption(f"🤔 Detected intent: *{intent}* (confidence {confidence*100:.0f}%)")
+
+# If FYND AI is uncertain, it politely asks for clarification
+if confidence < 0.6:
+    st.info("🧠 FYND AI wants to be sure — are you asking about **crime stats**, **alerts**, **demographics**, or **news**?")
+    st.stop()
+
+# Define a simple get_recent_context function
+def get_recent_context():
+    return "No recent context available."
+
+st.write(f"🧩 FYND AI Context: {get_recent_context()}")
+
+# Generate reasoning output
+insight = reason_about_data(intent, query, df)
+if insight:
+    st.success(insight)
+else:
+    st.warning("🤖 FYND AI is working tirelessly to improve our datasets and reasoning.")

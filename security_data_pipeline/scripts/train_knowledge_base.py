@@ -1,42 +1,63 @@
+import os
+import faiss
+import pickle
+import pandas as pd
 from sentence_transformers import SentenceTransformer
-import pandas as pd, numpy as np, faiss, os, pickle
 
-DATA_DIR = "data/knowledge"
+# === CONFIG ===
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "../data")
+KNOWLEDGE_DIR = os.path.join(DATA_DIR, "knowledge")
+OUT_INDEX = os.path.join(DATA_DIR, "vector_index.faiss")
+OUT_TEXTS = os.path.join(DATA_DIR, "vector_texts.pkl")
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
-INDEX_PATH = "data/vector_index.faiss"
-META_PATH = "data/vector_meta.pkl"
 
-def build_index():
-    model = SentenceTransformer(MODEL_NAME)
-    texts, meta = [], []
+os.makedirs(KNOWLEDGE_DIR, exist_ok=True)
+os.makedirs(DATA_DIR, exist_ok=True)
 
-    # Ingest CSVs
-    for file in os.listdir(DATA_DIR):
-        if file.endswith(".csv"):
-            df = pd.read_csv(os.path.join(DATA_DIR, file))
-            for _, row in df.iterrows():
-                text = " ".join(map(str, row.values))
-                texts.append(text)
-                meta.append({"source": file})
+# === LOAD MODEL ===
+print(f"[INFO] Loading model: {MODEL_NAME}")
+model = SentenceTransformer(MODEL_NAME)
 
-    # Ingest API caches (JSON or CSV)
-    for file in os.listdir("data/api_cache"):
-        if file.endswith(".csv"):
-            df = pd.read_csv(os.path.join("data/api_cache", file))
-            for _, row in df.iterrows():
-                text = " ".join(map(str, row.values))
-                texts.append(text)
-                meta.append({"source": file})
+# === COLLECT TEXTS ===
+corpus = []
 
-    # Build embeddings
-    emb = model.encode(texts, show_progress_bar=True)
-    index = faiss.IndexFlatL2(emb.shape[1])
-    index.add(np.array(emb, dtype="float32"))
+# 1️⃣ Load master parquet
+master_path = os.path.join(DATA_DIR, "security_master_geo.parquet")
+if os.path.exists(master_path):
+    print(f"[INFO] Loading master dataset: {master_path}")
+    df = pd.read_parquet(master_path)
+    text_cols = [c for c in df.columns if df[c].dtype == "object"]
+    for col in text_cols:
+        corpus.extend(df[col].dropna().astype(str).tolist())
 
-    # Save artifacts
-    faiss.write_index(index, INDEX_PATH)
-    pickle.dump(meta, open(META_PATH, "wb"))
-    print(f"[OK] Trained {len(texts)} records into vector index")
+# 2️⃣ Collect text from other CSVs or knowledge folder
+for file in os.listdir(KNOWLEDGE_DIR):
+    if file.endswith(".csv"):
+        try:
+            df = pd.read_csv(os.path.join(KNOWLEDGE_DIR, file))
+            for col in df.select_dtypes(include=["object"]).columns:
+                corpus.extend(df[col].dropna().astype(str).tolist())
+            print(f"[INFO] Added knowledge from {file} ({len(df)} rows)")
+        except Exception as e:
+            print(f"[WARN] Skipping {file}: {e}")
 
-if __name__ == "__main__":
-    build_index()
+if not corpus:
+    raise RuntimeError("No text data found in master or knowledge folder. Add CSVs or ensure the parquet exists.")
+
+print(f"[INFO] Building embeddings for {len(corpus)} text entries...")
+
+# === ENCODE AND BUILD INDEX ===
+embeddings = model.encode(corpus, show_progress_bar=True, convert_to_numpy=True)
+
+index = faiss.IndexFlatL2(embeddings.shape[1])
+index.add(embeddings)
+
+# === SAVE INDEX AND TEXT MAP ===
+faiss.write_index(index, OUT_INDEX)
+with open(OUT_TEXTS, "wb") as f:
+    pickle.dump(corpus, f)
+
+print(f"✅ Knowledge base built successfully!")
+print(f"📦 Saved FAISS index → {OUT_INDEX}")
+print(f"📘 Saved text map → {OUT_TEXTS}")

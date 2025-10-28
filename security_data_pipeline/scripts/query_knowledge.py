@@ -1,16 +1,49 @@
+import os
+import faiss
+import pickle
 from sentence_transformers import SentenceTransformer
-import numpy as np, faiss, pickle
+import numpy as np
 
-MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-INDEX_PATH, META_PATH = "data/vector_index.faiss", "data/vector_meta.pkl"
+# === PATH SETUP ===
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "../data")
+INDEX_PATH = os.path.join(DATA_DIR, "vector_index.faiss")
+TEXTS_PATH = os.path.join(DATA_DIR, "vector_texts.pkl")
 
-def search(query, top_k=5):
+# === MODEL ===
+MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+model = SentenceTransformer(MODEL_NAME)
+
+def kb_search(query: str, top_k: int = 5):
+    """Semantic search through FYND AI knowledge base with confidence scoring"""
+    if not os.path.exists(INDEX_PATH):
+        raise FileNotFoundError(f"Missing FAISS index file: {INDEX_PATH}")
+    if not os.path.exists(TEXTS_PATH):
+        raise FileNotFoundError(f"Missing text mapping: {TEXTS_PATH}")
+
+    # Load index + texts
     index = faiss.read_index(INDEX_PATH)
-    meta = pickle.load(open(META_PATH, "rb"))
-    q_emb = MODEL.encode([query])
-    D, I = index.search(np.array(q_emb, dtype="float32"), top_k)
+    with open(TEXTS_PATH, "rb") as f:
+        corpus = pickle.load(f)
+
+    # Encode query
+    query_vec = model.encode([query], convert_to_numpy=True)
+
+    # Perform FAISS search
+    distances, indices = index.search(query_vec, top_k)
+
+    # Normalize distances → confidence (0–1)
+    max_dist = np.max(distances)
+    min_dist = np.min(distances)
+    confs = 1 - (distances - min_dist) / (max_dist - min_dist + 1e-9)
+
     results = []
-    for dist, idx in zip(D[0], I[0]):
-        confidence = round(1 - dist / np.max(D), 2)
-        results.append({**meta[idx], "similarity": confidence})
+    for dist, conf, idx in zip(distances[0], confs[0], indices[0]):
+        if idx < len(corpus):
+            results.append({
+                "text": corpus[idx],
+                "confidence": float(conf),
+                "source": "FYND Knowledge Base"
+            })
+
     return results
