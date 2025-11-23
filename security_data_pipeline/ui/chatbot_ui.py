@@ -5,11 +5,12 @@ from pathlib import Path
 import plotly.express as px
 
 # --- FYND Intelligence Fetchers ---
-from live_data_fetcher import fetch_live_mci, summarize_recent
-from urban_safety_fetcher import fetch_urban_safety
-from alert_fetcher import fetch_all_alerts
-from news_fetcher import fetch_latest_news
-from census_fetcher import fetch_population_by_region
+# changed imports to relative so module resolution works when the package is imported/run
+from .live_data_fetcher import fetch_live_mci, summarize_recent
+from .urban_safety_fetcher import fetch_urban_safety
+from .alert_fetcher import fetch_all_alerts
+from .news_fetcher import fetch_latest_news
+from .census_fetcher import fetch_population_by_region
 
 # --- FYND Knowledge Base (Semantic Reasoning Layer) ---
 try:
@@ -202,3 +203,45 @@ if query:
 
 else:
     st.info("💡 Try asking: *Show latest Toronto crime news* or *Are there any active weather alerts?*")
+
+# small helper: intent router and safe fetch wrappers
+from typing import Callable, Any
+import time
+import logging
+logging.basicConfig(level=logging.INFO)
+
+def safe_fetch(fn: Callable[..., Any], *args, timeout: float = 10.0, **kwargs) -> Any:
+    """Call external fetcher with basic timeout and exception handling."""
+    start = time.time()
+    try:
+        result = fn(*args, **kwargs)
+        return result
+    except Exception as e:
+        logging.exception("Fetcher failed: %s", fn.__name__)
+        st.error(f"Error fetching {fn.__name__}: {e}")
+        return pd.DataFrame() if 'pandas' in str(type(e)).lower() else {}
+    finally:
+        elapsed = time.time() - start
+        logging.info("%s finished in %.2fs", fn.__name__, elapsed)
+
+# simple keyword-based intent detection (replaceable with a model later)
+INTENTS = {
+    "car_theft": {"must": ["car", "auto", "vehicle"], "any": ["theft", "stolen"]},
+    "robbery": {"any": ["robbery", "robbed"]},
+    "trend": {"any": ["trend", "year", "yearly", "over time", "year-over-year"]},
+    "latest": {"any": ["latest", "recent", "this week", "today"]},
+    "map": {"any": ["map", "show", "where", "location"]},
+    "urban_safety": {"any": ["urban", "safety", "response", "community", "wellbeing", "fire"]},
+    "alerts": {"any": ["alert", "emergency", "weather", "warning", "storm"]},
+    "news": {"any": ["news", "headline", "update", "media", "report", "incident"]},
+    "census": {"any": ["population", "income", "density", "demographic", "region", "compare"]},
+}
+
+def detect_intent(query: str) -> str:
+    q = query.lower()
+    for intent, rules in INTENTS.items():
+        if "must" in rules and not all(w in q for w in rules["must"]):
+            continue
+        if "any" in rules and any(w in q for w in rules["any"]):
+            return intent
+    return "kb_or_fallback"
